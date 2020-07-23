@@ -85,11 +85,11 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "judith.png"
+  avatar           : "/images/judith.png"
   bio              : "bio"
   location         : "University of Stuttgart"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3tw8OEMAAAAJ&hl=en"
   email            :
   researchgate     :  
