@@ -11,7 +11,7 @@ title                    : Prof. Dr. Judith Tonhauser
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : judith-tonhauser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -86,8 +86,8 @@ analytics:
 author:
   name             : 
   avatar           : judith.png
-  bio              : "bio"
-  location         : Department of English Linguistics, University of Stuttgart
+  bio              : 
+  location         : University of Stuttgart
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3tw8OEMAAAAJ&hl=en"
