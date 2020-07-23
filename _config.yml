@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # Build settings
-#remote_theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # SEO Related
@@ -110,7 +110,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-6061-7120"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
