@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # Build settings
-remote_theme: minimal-mistakes-jekyll
+#remote_theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # SEO Related
@@ -100,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "judith-tonhauser"
+#  github           : "judith-tonhauser"
   google_plus      :
   keybase          :
   instagram        :
