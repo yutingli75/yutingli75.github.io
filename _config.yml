@@ -86,8 +86,8 @@ analytics:
 author:
   name             : 
   avatar           : judith.png
-  bio              : 
-  location         : University of Stuttgart
+  bio              : Department of English Linguistics, University of Stuttgart
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3tw8OEMAAAAJ&hl=en"
@@ -100,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-#  github           : "judith-tonhauser"
+  github           : "judith-tonhauser"
   google_plus      :
   keybase          :
   instagram        :
