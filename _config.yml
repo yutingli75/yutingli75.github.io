@@ -89,8 +89,8 @@ author:
   bio              : "bio"
   location         : "University of Stuttgart"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?user=3tw8OEMAAAAJ&hl=en"
   email            :
   researchgate     :  
   uri              :
