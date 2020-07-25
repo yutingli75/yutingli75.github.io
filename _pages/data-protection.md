@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Short curriculum vitae"
-permalink: /cv/
+title: "Data protection"
+permalink: /data-projection/
 author_profile: true
 redirect_from:
   - /resume
