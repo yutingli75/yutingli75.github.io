@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a full professor in the [Department of English Linguistics](https://www.ling.uni-stuttgart.de/institut/ifla/) at the University of Stuttgart. I am also the chair of the department.
+I am a full professor in the [Department of English Linguistics](https://www.ling.uni-stuttgart.de/institut/ifla/) at the University of Stuttgart, as well as the chair of the department.
+
+
 
 
