@@ -10,7 +10,7 @@ redirect_from:
 
 I am a full professor in the [Department of English Linguistics](https://www.ling.uni-stuttgart.de/institut/ifla/) at the University of Stuttgart, as well as the chair of the department.
 
-My research investigates natural language meaning, including semantics and pragmatics. I primarily conduct research on English and Paraguayan Guaraní, a Tupí-Guaraní language spoken in Paraguay and surrounding countries. You can find out more about my research [here](https://judith-tonhauser.github.io/research/).
+My research lies in the areas of semantics and pragmatics, that is, natural language meaning: how does meaning arise from the complex expressions that speakers utter, which types of meaning are communicated, and how do listeners retrieve the information? I primarily conduct research on English and Paraguayan Guaraní, a Tupí-Guaraní language spoken in Paraguay and surrounding countries. You can find out more about my research [here](https://judith-tonhauser.github.io/research/) or check out my [publications](https://judith-tonhauser.github.io/publications/).
 
 
 
