@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Data protection"
+title: ""
 permalink: /data-projection/
 author_profile: true
 redirect_from: 
@@ -81,6 +81,19 @@ Weitergehende Informationen über die Erhebung und Nutzung von Daten sowie Ihre 
 https://policies.google.com/privacy
 
 abrufbaren Datenschutzhinweisen bereit.
+
+GitHub
+
+Unsere Website nutzt Plugins des Online-Dienstes GitHub. Anbieter ist GitHub, Inc, 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA.
+
+Wenn Sie eine unserer mit einem GitHub-Plugin ausgestatteten Seiten besuchen, wird eine Verbindung zu den Servern von GitHub hergestellt. Dabei wird dem GitHub-Server mitgeteilt, welche unserer Seiten Sie besucht haben. Zudem erlangt GitHub Ihre IP-Adresse. Dies gilt auch dann, wenn Sie nicht bei GitHub eingeloggt sind oder keinen Account bei GitHub besitzen. Die von GitHub erfassten Informationen werden an den GitHub-Server in den USA übermittelt.
+
+Wenn Sie in Ihrem GitHub-Account eingeloggt sind, ermöglichen Sie GitHub, Ihr Surfverhalten direkt Ihrem persönlichen Profil zuzuordnen. Dies können Sie verhindern, indem Sie sich aus Ihrem GitHub-Account ausloggen.
+
+Die Nutzung von GitHub erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO dar.
+
+Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von GitHub unter: https://help.github.com/articles/github-privacy-statement/.
+
 
 Hosting mit GitHub Pages
 
