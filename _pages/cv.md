@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2006, Ph.D. in Linguistics, Stanford University
+* 2000, Diploma in Linguistics, University of Stuttgart
 
-Work experience
+Academic positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* since 2020: Professor and Chair, Department of English Linguistics, University of Stuttgart
+* 2019-2020: Professor, Department of Linguistics, The Ohio State University
+* 2018-2020: Visiting Professor and Chair, Department of English Linguistics, University of Stuttgart
+* 2015-2016: Fellow, Zentrum fu ̈r Allgemeine Sprachwissenschaft, Berlin, Germany
+* 2013-2014: Fellow, Center for Advanced Study in the Behavioral Sciences, Stanford University
+* 2012-2019: Associate Professor, Department of Linguistics, The Ohio State University
+* 2006-2012: Assistant Professor, Department of Linguistics, The Ohio State University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
