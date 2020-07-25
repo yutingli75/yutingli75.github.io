@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ##Academic positions
+
 * since 2020: Professor and Chair, Department of English Linguistics, University of Stuttgart
 * 2019-2020: Professor, Department of Linguistics, The Ohio State University
 * 2018-2020: Visiting Professor and Chair, Department of English Linguistics, University of Stuttgart
@@ -36,7 +37,7 @@ Current and recent service to the field
 ======
 * 2020-2021: Program committee for the 2021 Annual Meeting, [Deutsche Gesellschaft für Sprachwissenschaft](https://dgfs.de/de/)
 * 2017-2019: Committee on Committee and Delegate Appointments, [Linguistic Society of America](https://lsadc.org)
-* 2018-no1: Editorial board member, [Zeitschrift für Sprachwissenschaft](https://dgfs.de/de/inhalt/zeitschrift-zs.html)
+* 2018-now: Editorial board member, [Zeitschrift für Sprachwissenschaft](https://dgfs.de/de/inhalt/zeitschrift-zs.html)
 * 2013-now: Associate editor, [Semantics & Pragmatics](https://semprag.org)
 
 
