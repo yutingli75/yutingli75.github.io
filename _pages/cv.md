@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-##Academic positions
+## Academic positions
 
 * since 2020: Professor and Chair, Department of English Linguistics, University of Stuttgart
 * 2019-2020: Professor, Department of Linguistics, The Ohio State University
