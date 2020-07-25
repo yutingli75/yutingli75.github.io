@@ -52,7 +52,7 @@ atom_feed:
 # Build settings
 #remote_theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: aqua #"air" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "aqua" #"air" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # SEO Related
 google_site_verification :
