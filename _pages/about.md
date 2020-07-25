@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a professor of English linguistics at the University of Stuttgart. 
-
-
-[academicpages template](https://github.com/academicpages/academicpages.github.io)
+I am a Full Professor in the [Department of English Linguistics](https://www.ling.uni-stuttgart.de/institut/ifla/) at the University of Stuttgart. 
 
 
