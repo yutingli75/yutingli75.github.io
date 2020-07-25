@@ -22,5 +22,5 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-#  - title: "Datenschutzerklärung"
-#    url: /markdown/
+  - title: "Advising/theses"
+    url: /markdown/
