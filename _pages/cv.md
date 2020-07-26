@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Please contact me for a full CV.
+
 ## Academic positions
 
 * since 2020: Professor and Chair, Department of English Linguistics, University of Stuttgart

@@ -20,10 +20,13 @@ Mit der nachfolgenden Datenschutzerklärung informieren wir Sie insbesondere üb
 Unsere Datenschutzerklärung ist wie folgt gegliedert:
 
 I. Informationen über uns als Verantwortliche
+
 II. Rechte der Nutzer und Betroffenen
+
 III. Informationen zur Datenverarbeitung
 
 I. Informationen über uns als Verantwortliche
+
 Verantwortlicher Anbieter dieses Internetauftritts im datenschutzrechtlichen Sinne ist:
 
 Judith Tonhauser, 70197 Stuttgart, Deutschland
@@ -31,6 +34,7 @@ Judith Tonhauser, 70197 Stuttgart, Deutschland
 E-Mail: judith.tonhauser@gmail.com
 
 II. Rechte der Nutzer und Betroffenen
+
 Mit Blick auf die nachfolgend noch näher beschriebene Datenverarbeitung haben die Nutzer und Betroffenen das Recht
 
 auf Bestätigung, ob sie betreffende Daten verarbeitet werden, auf Auskunft über die verarbeiteten Daten, auf weitere Informationen über die Datenverarbeitung sowie auf Kopien der Daten (vgl. auch Art. 15 DSGVO);
@@ -43,9 +47,11 @@ Darüber hinaus ist der Anbieter dazu verpflichtet, alle Empfänger, denen gegen
 Ebenfalls haben die Nutzer und Betroffenen nach Art. 21 DSGVO das Recht auf Widerspruch gegen die künftige Verarbeitung der sie betreffenden Daten, sofern die Daten durch den Anbieter nach Maßgabe von Art. 6 Abs. 1 lit. f) DSGVO verarbeitet werden. Insbesondere ist ein Widerspruch gegen die Datenverarbeitung zum Zwecke der Direktwerbung statthaft.
 
 III. Informationen zur Datenverarbeitung
+
 Ihre bei Nutzung unseres Internetauftritts verarbeiteten Daten werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt, der Löschung der Daten keine gesetzlichen Aufbewahrungspflichten entgegenstehen und nachfolgend keine anderslautenden Angaben zu einzelnen Verarbeitungsverfahren gemacht werden.
 
 Serverdaten
+
 Aus technischen Gründen, insbesondere zur Gewährleistung eines sicheren und stabilen Internetauftritts, werden Daten durch Ihren Internet-Browser an uns bzw. an unseren Webspace-Provider übermittelt. Mit diesen sog. Server-Logfiles werden u.a. Typ und Version Ihres Internetbrowsers, das Betriebssystem, die Website, von der aus Sie auf unseren Internetauftritt gewechselt haben (Referrer URL), die Website(s) unseres Internetauftritts, die Sie besuchen, Datum und Uhrzeit des jeweiligen Zugriffs sowie die IP-Adresse des Internetanschlusses, von dem aus die Nutzung unseres Internetauftritts erfolgt, erhoben.
 
 Diese so erhobenen Daten werden vorrübergehend gespeichert, dies jedoch nicht gemeinsam mit anderen Daten von Ihnen.
