@@ -24,11 +24,11 @@ For course descriptions, please see our [KVV](https://www.ling.uni-stuttgart.de/
 
 ### Bachelor and Master theses
 
-I advise theses on topics in semantics and pragmatics and on social meaning. To write a thesis with me, you will ideally have taken at least one course with me so that your thesis can build on the course content. 
+I advise theses on topics in semantics, pragmatics and prosody as well as on social meaning. To write a thesis with me, you will ideally have taken at least one course with me so that your thesis can build on the course content. 
 
-These [guidelines](https://github.com/judith-tonhauser/teaching-materials/blob/master/6_paper-and-thesis-guidelines.pdf) provide information on my expectations regarding the content, organization and mechanics of theses (and term papers) as well as on how I grade theses (and term papers). Please review them carefully if you are thinking of writing a thesis with me (I also go over these guidelines in courses that require a term paper).
+These [guidelines](https://github.com/judith-tonhauser/teaching-materials/blob/master/6_paper-and-thesis-guidelines.pdf) (which are frequently updated) provide information on my expectations regarding the content, organization and mechanics of theses (and term papers) as well as on how I grade theses (and term papers). Please review them carefully if you are thinking of writing a thesis with me (I also go over these guidelines in courses that require a term paper).
 
-You are welcome to develop a research question for your thesis based on your own interests (as long as I feel comfortable advising a thesis on that topic). I generally expect both Bachelor and Master theses to include an original research component, which means that you will collect and analyze production or comprehension data to investigate the research question addressed in your thesis.
+You are welcome to develop a research question for your thesis based on your background and interests, as long as I feel comfortable advising a thesis on that topic. I generally expect both Bachelor and Master theses to include an original research component, which means that you will collect and analyze production or comprehension data to investigate the research question addressed in your thesis.
 
 Here are titles of theses I have recently advised at the University of Stuttgart:
 * Modification with <i>falsely</i>: Evidence for entailment relations
