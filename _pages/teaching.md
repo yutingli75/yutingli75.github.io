@@ -36,4 +36,5 @@ Here are titles of theses I have recently advised at the University of Stuttgart
 * The acquisition of the English progressive aspect by L1 Ukranian speakers
 * The prosody of emotional meanings in English
 * Presupposition in neurodiverse populations
+* On the acquisition of factive presuppositions
 
