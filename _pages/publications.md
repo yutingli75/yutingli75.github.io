@@ -14,8 +14,8 @@ redirect_from:
 ### Peer-reviewed journal publications
 
 <ol reversed>
-  <li> Evaluative adjective sentences: A question-based analysis of projection. Accepted. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen. <i> Glossa</i>. </li> 
-2. Projection variability in Paraguayan Guaraní. In press. <b> Judith Tonhauser</b>. <i> Natural Language and Linguistic Theory</i>.  </li>
+<li> Evaluative adjective sentences: A question-based analysis of projection. Accepted. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen. <i> Glossa</i>. </li> 
+<li> Projection variability in Paraguayan Guaraní. In press. <b> Judith Tonhauser</b>. <i> Natural Language and Linguistic Theory</i>.  </li>
 <li>How projective is projective content? Gradience in projectivity and at-issueness. 2018. <b> Judith Tonhauser</b>, David Beaver and Judith Degen, <i> Journal of Semantics</i> 35:495-542. </li>
   <li>The Best Question: Explaining the projection behavior of
 factive verbs. 2017. Mandy Simons, David Beaver, Craige Roberts and <b> Judith  Tonhauser</b>, <i> Discourse Processes</i>  54:187-206. </li>
