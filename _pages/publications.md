@@ -106,7 +106,7 @@ Motivation from semantic scope. 2002. <b> Judith Tonhauser</b>,
 ### Conference proceedings papers
 
 <ol reversed>
-<li> [On the prosody of presupposition projection: A production experiment]({{ site.baseurl }}/files/vaiksnoraite-etal2019.pdf). 2019. Elena Vaiksnoraite, Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>. <i> North East Linguistic Society</i>  49, pp.241-254. </li>
+<li> [On the prosody of presupposition projection: A production experiment](http://judith-tonhauser.github.io/files/vaiksnoraite-etal2019.pdf). 2019. Elena Vaiksnoraite, Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>. <i> North East Linguistic Society</i>  49, pp.241-254. </li>
 
 <li> On the information structure sensitivity of projective content. 2019. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe, Shari R. Speer and Jon Stevens, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.923-949. </li>
 
