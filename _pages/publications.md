@@ -14,8 +14,8 @@ redirect_from:
 ### Peer-reviewed journal publications
 
 <ol reversed>
-<li> Evaluative adjective sentences: A question-based analysis of projection. Accepted. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen. <i> Glossa</i>. </li> 
-<li> Projection variability in Paraguayan Guaraní. In press. <b> Judith Tonhauser</b>. <i> Natural Language and Linguistic Theory</i>.  </li>
+<li> Evaluative adjective sentences: A question-based analysis of projection. Accepted. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen, <i> Glossa</i>. </li> 
+<li> Projection variability in Paraguayan Guaraní. In press. <b> Judith Tonhauser</b>, <i> Natural Language and Linguistic Theory</i>.  </li>
 <li>How projective is projective content? Gradience in projectivity and at-issueness. 2018. <b> Judith Tonhauser</b>, David Beaver and Judith Degen, <i> Journal of Semantics</i> 35:495-542. </li>
   <li>The Best Question: Explaining the projection behavior of
 factive verbs. 2017. Mandy Simons, David Beaver, Craige Roberts and <b> Judith  Tonhauser</b>, <i> Discourse Processes</i>  54:187-206. </li>
@@ -25,14 +25,14 @@ Clopper and <b> Judith Tonhauser</b>, <i> Language, Cognition and
 Neuroscience</i>  30:1061-1076; special issue on <i> Laboratory in the
 Field: Advances in Cross-Linguistic Psycholinguistics</i>.  </li>
   <li>Variation in the prosody of focus in head- and head/edge-prominence languages. 2015. Rachel Burdin, Sara Phillips-Bourass, Rory Turnbull, Murat Yasavul, Cynthia G. Clopper and <b> Judith Tonhauser</b>, <i> Lingua</i>  165:254-276; special issue on <i> Prosody and Information Structure in Typological Perspective</i>. </li>
-  <li>Are `informative presuppositions' presuppositions? 2015. <b> Judith Tonhauser</b>. <i> Language and Linguistics Compass</i>  9:77-101  </li>
+  <li>Are 'informative presuppositions' presuppositions? 2015. <b> Judith Tonhauser</b>, <i> Language and Linguistics Compass</i>  9:77-101  </li>
   <li>Toward a taxonomy of projective content. 2013. <b> Judith Tonhauser</b>,
 David Beaver, Craige Roberts and Mandy Simons, <i> Language</i>  89:66-109. </li>
   <li>The prosody of focus in Paraguayan Guaraní. 2013. Cynthia
-G.\ Clopper and <b> Judith Tonhauser</b>, <i> International
+G. Clopper and <b> Judith Tonhauser</b>, <i> International
   Journal of American Linguistics</i>  79:219-251.  </li>
   <li>Temporal reference in Paraguayan Guaraní, a tenseless
-language. 2011. <b> Judith Tonhauser</b>, <i> Linguistics \&
+language. 2011. <b> Judith Tonhauser</b>, <i> Linguistics &
   Philosophy</i>  34:257-303.  </li>
   <li>The diachrony and synchrony of differential object marking in
 Paraguayan Guaraní. 2011. Cory Shain and <b> Judith Tonhauser</b>, <i> Language
@@ -41,7 +41,7 @@ Paraguayan Guaraní. 2011. Cory Shain and <b> Judith Tonhauser</b>, <i> Language
 constructions in Korean and Japanese. 2010. Jungmee Lee and <b> Judith
 Tonhauser</b>, <i> Journal of Semantics</i>  27:307-341.  </li>
   <li>Word order in Paraguayan Guaraní. 2010. <b> Judith Tonhauser </b> and
-Erika Colijn. <i> International Journal of American Linguistics</i>  76:255-288.  </li>
+Erika Colijn, <i> International Journal of American Linguistics</i>  76:255-288.  </li>
   <li>Nominal tense? The meaning of Guaraní  nominal temporal
 markers. 2007. <b> Judith Tonhauser</b>, <i> Language</i>  83:831-869. </li>
 </ol>
@@ -49,14 +49,14 @@ markers. 2007. <b> Judith Tonhauser</b>, <i> Language</i>  83:831-869. </li>
 ### Invited, editor-reviewed journal papers
 
 <ol reversed>
-  <li>2015 Cross-linguistic temporal reference. <b> Judith
+  <li>Cross-linguistic temporal reference. 2015. <b> Judith
 Tonhauser</b>, <i> Annual Review of
 Linguistics</i>  1:129-154.  </li>
-<li>2017 Questions Under Discussion: Where information structure meets
-projective content. David Beaver, Craige Roberts, Mandy Simons and <b> Judith  Tonhauser</b>. <i> Annual Review of
+<li>Questions Under Discussion: Where information structure meets
+projective content. 2017. David Beaver, Craige Roberts, Mandy Simons and <b> Judith  Tonhauser</b>, <i> Annual Review of
 Linguistics</i>  3:265-284.  </li>
-  <li>2008 Defining cross-linguistic categories: The case of nominal
-tense. Reply to Nordlinger and Sadler (2008). <b> Judith Tonhauser</b>, {\em
+  <li>Defining cross-linguistic categories: The case of nominal
+tense. 2008. Reply to Nordlinger and Sadler (2008). <b> Judith Tonhauser</b>, <i> 
   Language</i>  84:332-342 </li>
 </ol>
 
@@ -106,7 +106,7 @@ Tonhauser</b>, in Nishida, C.\ and C.\ Russi (eds.)  <i> Cahier Chronos: Selecte
 <ol reversed>
 <li> 2019 On the prosody of presupposition projection: A production experiment. Elena Vaik\v snorait\.{e</i> , Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>. <i> North East Linguistic Society</i>  49, pp.241-254 </li>
 
-<li> 2019 On the information structure sensitivity of projective content. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe, Shari R.\ Speer and Jon Stevens, <i> Sinn und Bedeutung 23</i> , Universitat Aut\`onoma de Barcelona, pp.923-949 </li>
+<li> 2019 On the information structure sensitivity of projective content. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe, Shari R. Speer and Jon Stevens, <i> Sinn und Bedeutung 23</i> , Universitat Aut\`onoma de Barcelona, pp.923-949 </li>
 
 <li> 2019 The CommitmentBank: Investigating projection in naturally occurring discourse. Marie-Catherine de Marneffe, Mandy Simons and <b> Judith Tonhauser</b>, <i> Sinn und Bedeutung 23</i> , Universitat Aut\`onoma de Barcelona, pp.663-680 </li>
 
@@ -125,7 +125,7 @@ Publications, pp.189-204 </li>
 <b> Judith Tonhauser</b>, <i> Semantics and Linguistic Theory 22</i> ,
 Ithaca, NY: CLC Publications, pp.268-285. </li>
 
-<li> 2012 Diagnosing (not-)at-issue content. <b> Judith Tonhauser</b>, {\em
+<li> 2012 Diagnosing (not-)at-issue content. <b> Judith Tonhauser</b>, <i> 
   Semantics of Under-represented Languages of the Americas 6</i> ,
 Amherst, MA: GLSA Publications, pp.239-254 </li>
 
@@ -179,7 +179,7 @@ Maya. <b> Judith Tonhauser</b>, <i> 6th Workshop on
   American Indian Languages</i> , Santa Barbara
 Papers in Linguistics, vol.14, pp.106-121 </li>
 
-<li> 2003 F-constructions in Yucatec Maya. <b> Judith Tonhauser</b>,  {\em
+<li> 2003 F-constructions in Yucatec Maya. <b> Judith Tonhauser</b>,  <i> 
   Semantics of Under-represented Languages in the Americas 2</i> ,
 Amherst, MA: GLSA Publications, pp.203-223. </li>
 
