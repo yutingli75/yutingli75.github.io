@@ -13,14 +13,11 @@ This page provides information on my courses at the University of Stuttgart as w
 
 * Language & Cognition: Introduction to psycholinguistics (yearly, since WiSe 2018/19)
 * Language Variation: Introduction to sociolinguistics (yearly, since SoSe 2019)
-
 * Advanced Semantics:
 	* Language in Use: Pragmatics (WiSe 2018/19)
 	* Clause-embedding predicates in discourse (WiSe 2019/20, SoSe 2020, WiSe 2020/21)
 	* Social Meaning (WiSe 2019/20, WiSe 2020/21)
-
 * Colloquium: Semantics, pragmatics and psycholinguistics (every semester since WiSe 2018/19)
-
 * Research colloquium in syntax, semantics and pragmatics (every semester since WiSe 2018/19, joint with Prof. Dr. Daniel Hole)
 
 ### Bachelor and Master theses
