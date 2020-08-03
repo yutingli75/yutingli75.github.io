@@ -98,12 +98,15 @@ clauses. 2011. Yusuke Kubota, Jungmee Lee, Anastasia Smirnova and <b> Judith
 Tonhauser</b>, in Nishida, C. and C. Russi (eds.)  <i> Cahier Chronos: Selected Proceedings of
   Chronos 8</i>, Amsterdam/Atlanta: Rodopi, pp.135-155. </li>
  
+<li> Treating polarity sensitivity by lexical underspecification:
+Motivation from semantic scope. 2002. <b> Judith Tonhauser</b>, 
+<i> Linguistics on the Way into the Third Millenium</i>, Bern: Peter Lang, pp.829-837. </li>
 </ol>
 
 ### Conference proceedings papers
 
 <ol reversed>
-<li> On the prosody of presupposition projection: A production experiment. 2019. Elena Vaiksnoraite, Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>. <i> North East Linguistic Society</i>  49, pp.241-254. </li>
+<li> [On the prosody of presupposition projection: A production experiment].(/files/vaiksnoraite-etal2019.pdf) 2019. Elena Vaiksnoraite, Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>. <i> North East Linguistic Society</i>  49, pp.241-254. </li>
 
 <li> On the information structure sensitivity of projective content. 2019. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe, Shari R. Speer and Jon Stevens, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.923-949. </li>
 
@@ -186,9 +189,6 @@ Amherst, MA: GLSA Publications, pp.203-223. </li>
 noun phrases. 2002. <b> Judith Tonhauser</b>, <i> Semantics
   and Linguistic Theory 12</i>, Ithaca, NY: CLC Publications, pp.286-305. </li>
 
-<li> Treating polarity sensitivity by lexical underspecification:
-Motivation from semantic scope. 2002. <b> Judith Tonhauser</b>, 
-<i> Linguistics on the Way into the Third Millenium</i>, Bern: Peter Lang, pp.829-837. </li>
 
 <li>An approach to polarity sensitivity and negative concord by
 lexical underspecification. 2000. <b> Judith Tonhauser</b>, <i> 7th
