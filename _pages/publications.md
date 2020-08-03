@@ -66,7 +66,7 @@ tense. 2008. Reply to Nordlinger and Sadler (2008). <b> Judith Tonhauser</b>, <i
   <li> Managing web-experiments for psycholinguistics: An example from experimental semantics/pragmatics. In press. Judith Degen and <b> Judith Tonhauser</b>, in Berez-Kroeker, A. L. and B. McDonnell and E. Koller (eds.) Open Handbook of Linguistic Data Management, Cambridge, MA: MIT Press Open. </li>
 
 <li> Temporal properties of noun phrases. In press. <b> Judith Tonhauser</b>,
-in Gutzmann, D., Matthewson, L., C. Meier, H. Rullmann and T. E. Zimmermann (eds.) <i> Companion to Semantics</i> , New York: Wiley Blackwell. </li>
+in Gutzmann, D., Matthewson, L., C. Meier, H. Rullmann and T. E. Zimmermann (eds.) <i> Companion to Semantics</i>, New York: Wiley Blackwell. </li>
 
 <li> Prosody and meaning: On the production, perception and interpretation of prosodically marked focus. 2019. <b> Judith Tonhauser</b>, in Cummins, C. and N. Katsos (eds.) <i> Handbook of Experimental Semantics and Pragmatics</i>, Oxford: Oxford University Press, pp.494-511.  </li>
 
@@ -85,120 +85,120 @@ Oxford University Press, pp.306-350. </li>
 <li>Semantics of inflection. 2013. Paul Kiparsky and <b> Judith
 Tonhauser</b>, in Maienborn, C., K. von Heusinger and P. Portner (eds.)
 <i> Semantics: An International Handbook of Natural Language
-  Meaning</i>, vol.\ 3, Berlin: Mouton de Gruyter, pp.2070-2097. </li>
+  Meaning</i>, vol. 3, Berlin: Mouton de Gruyter, pp.2070-2097. </li>
 
-<li> The Paraguayan Guaran\yi{</i>  future marker <i> -ta</i>:
+<li> The Paraguayan Guaraní  future marker <i> -ta</i>:
 Formal semantics and cross-linguistic comparison. 2011. <b> Judith Tonhauser</b>,
-in Musan, R. and M. Rathert (eds.) <i> Tense Across Languages</i> , 
+in Musan, R. and M. Rathert (eds.) <i> Tense Across Languages</i>, 
 Tübingen: Niemeyer, pp.207-231.   </li>
 
 
 <li>Cross-linguistic variation in temporal adjunct
 clauses. 2011. Yusuke Kubota, Jungmee Lee, Anastasia Smirnova and <b> Judith
 Tonhauser</b>, in Nishida, C. and C. Russi (eds.)  <i> Cahier Chronos: Selected Proceedings of
-  Chronos 8</i> , Amsterdam/Atlanta: Rodopi, pp.135-155. </li>
+  Chronos 8</i>, Amsterdam/Atlanta: Rodopi, pp.135-155. </li>
  
 </ol>
 
 ### Conference proceedings papers
 
 <ol reversed>
-<li> 2019 On the prosody of presupposition projection: A production experiment. Elena Vaik\v snorait\.{e</i> , Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>. <i> North East Linguistic Society</i>  49, pp.241-254 </li>
+<li> On the prosody of presupposition projection: A production experiment. 2019. Elena Vaiksnoraite, Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>. <i> North East Linguistic Society</i>  49, pp.241-254. </li>
 
-<li> 2019 On the information structure sensitivity of projective content. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe, Shari R. Speer and Jon Stevens, <i> Sinn und Bedeutung 23</i> , Universitat Aut\`onoma de Barcelona, pp.923-949 </li>
+<li> On the information structure sensitivity of projective content. 2019. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe, Shari R. Speer and Jon Stevens, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.923-949. </li>
 
-<li> 2019 The CommitmentBank: Investigating projection in naturally occurring discourse. Marie-Catherine de Marneffe, Mandy Simons and <b> Judith Tonhauser</b>, <i> Sinn und Bedeutung 23</i> , Universitat Aut\`onoma de Barcelona, pp.663-680 </li>
+<li> The CommitmentBank: Investigating projection in naturally occurring discourse. 2019. Marie-Catherine de Marneffe, Mandy Simons and <b> Judith Tonhauser</b>, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.663-680. </li>
 
-<li> 2017 Predicting projection from rational use of prosody. Jon Stevens, Marie-Catherine de Marneffe, Shari R.\ Speer and <b> Judith Tonhauser</b>, <i> Annual Conference of the Cognitive Science Society</i> , pp.1144-1149  </li>
+<li> Predicting projection from rational use of prosody. 2017. Jon Stevens, Marie-Catherine de Marneffe, Shari R. Speer and <b> Judith Tonhauser</b>, <i> Annual Conference of the Cognitive Science Society</i>, pp.1144-1149.  </li>
 
-<li> 2016 Prosodic cues to presupposition projection.
-<b> Judith Tonhauser</b>, <i> Semantics and Linguistic Theory 26</i> ,
+<li> Prosodic cues to presupposition projection. 2016.
+<b> Judith Tonhauser</b>, <i> Semantics and Linguistic Theory 26</i>,
 Ithaca, LSA and CLC Publications, pp.934-960. </li>
 
-<li> 2014 Reportative evidentiality in Paraguayan Guaraní. <b> Judith
+<li>Reportative evidentiality in Paraguayan Guaraní. 2014. <b> Judith
 Tonhauser</b>, <i> Semantics of Under-represented
-  Languages of the Americas 7</i> , Amherst, MA: GLSA
-Publications, pp.189-204 </li>
+  Languages of the Americas 7</i>, Amherst, MA: GLSA
+Publications, pp.189-204. </li>
 
-<li> 2012 Contrastive topics in Paraguayan Guaraní discourse.
+<li>Contrastive topics in Paraguayan Guaraní discourse. 2012.
 <b> Judith Tonhauser</b>, <i> Semantics and Linguistic Theory 22</i> ,
 Ithaca, NY: CLC Publications, pp.268-285. </li>
 
-<li> 2012 Diagnosing (not-)at-issue content. <b> Judith Tonhauser</b>, <i> 
-  Semantics of Under-represented Languages of the Americas 6</i> ,
-Amherst, MA: GLSA Publications, pp.239-254 </li>
+<li>Diagnosing (not-)at-issue content. 2012. <b> Judith Tonhauser</b>, <i> 
+  Semantics of Under-represented Languages of the Americas 6</i>,
+Amherst, MA: GLSA Publications, pp.239-254. </li>
 
 
-<li> 2011 What projects and why? Mandy Simons, <b> Judith Tonhauser</b>,
+<li>What projects and why? 2011. Mandy Simons, <b> Judith Tonhauser</b>,
 David Beaver and Craige Roberts, <i> Semantics and Linguistic Theory
-  20</i> , Ithaca, NY: CLC Publications, pp.309-327 </li>
+  20</i>, Ithaca, NY: CLC Publications, pp.309-327. </li>
 
 
-<li> 2011 On the prosodic coding of focus in Paraguayan Guaraní. Cynthia
-G.\ Clopper and <b> Judith Tonhauser</b>, <i> West Coast Conference on
-Formal Linguistics 28</i> , Somerville, MA: Cascadilla
-Proceedings Project, pp.249-257 </li>
+<li>On the prosodic coding of focus in Paraguayan Guaraní. 2011. Cynthia
+G. Clopper and <b> Judith Tonhauser</b>, <i> West Coast Conference on
+Formal Linguistics 28</i>, Somerville, MA: Cascadilla
+Proceedings Project, pp.249-257. </li>
 
 
-<li> 2010 Is Paraguayan Guaraní a tenseless language? <b> Judith
+<li>Is Paraguayan Guaraní a tenseless language? 2010. <b> Judith
 Tonhauser</b>, <i> Semantics of Under-represented Languages of the
-  Americas 5</i> , Amherst, MA: GLSA Publications, pp.227-242 </li>
+  Americas 5</i>, Amherst, MA: GLSA Publications, pp.227-242. </li>
 
 
-<li> 2009 Presupposition, conventional implicature, and beyond: A
-unified account of projection. Craige Roberts, Mandy Simons, David
-Beaver and <b> Judith Tonhauser</b>, in Klinedinst, N.\ \& D.\ Rothschild (eds.) <i> New Directions in the Theory of
-  Presupposition</i> , European Summer School in Logic, Language and Information, Toulouse, France </li>
+<li>Presupposition, conventional implicature, and beyond: A
+unified account of projection. 2009. Craige Roberts, Mandy Simons, David
+Beaver and <b> Judith Tonhauser</b>, in Klinedinst, N. & D. Rothschild (eds.) <i> New Directions in the Theory of
+  Presupposition</i>, European Summer School in Logic, Language and Information, Toulouse, France. </li>
 
 
-<li> 2009 Counterfactuality and future time reference: The case of
-Paraguayan Guaraní <i> --mo'\~a</i>. <b> Judith Tonhauser</b>, <i> Sinn
-  und Bedeutung 13</i> , University of Stuttgart, pp.527-541 </li>
+<li>Counterfactuality and future time reference: The case of
+Paraguayan Guaraní <i> -mo'ã</i>. 2009. <b> Judith Tonhauser</b>, <i> Sinn
+  und Bedeutung 13</i>, University of Stuttgart, pp.527-541. </li>
 
 
-<li> 2009 On the cross-linguistic interpretation of embedded tenses.
+<li>On the cross-linguistic interpretation of embedded tenses. 2009.
 Yusuke Kubota, Jungmee Lee, Anastasia Smirnova and <b> Judith Tonhauser</b>,
-<i> Sinn und Bedeutung 13</i> , University of Stuttgart, pp.307-320 </li>
+<i> Sinn und Bedeutung 13</i>, University of Stuttgart, pp.307-320. </li>
 
 
-<li> 2007 What is nominal tense? A case study of Paraguayan Guaraní.
-<b> Judith Tonhauser</b>, <i> Semantics of Under-represented Languages 3</i> , Amherst, MA: GLSA Publications, pp.149-168 </li>
+<li>What is nominal tense? A case study of Paraguayan Guaraní. 2007.
+<b> Judith Tonhauser</b>, <i> Semantics of Under-represented Languages 3</i>, Amherst, MA: GLSA Publications, pp.149-168. </li>
 
 
-<li> 2007 Agent focus and voice in Yucatec Maya. <b> Judith Tonhauser</b>, 
-<i> 39th Annual Meeting of the Chicago Linguistic Society</i> ,
-Chicago: Chicago Linguistic Society, pp.540-558 </li>
+<li>Agent focus and voice in Yucatec Maya. 2007. <b> Judith Tonhauser</b>, 
+<i> 39th Annual Meeting of the Chicago Linguistic Society</i>,
+Chicago: Chicago Linguistic Society, pp.540-558. </li>
 
 
-<li> 2005 Towards an understanding of the meaning of nominal tense. <b> Judith  Tonhauser</b>, <i> Sinn und Bedeutung 9</i> , Nijmegen:
-Ni\nolinebreak[4]jmegen Center for Semantics, pp.475-488 </li>
+<li>Towards an understanding of the meaning of nominal tense. 2005. <b> Judith  Tonhauser</b>, <i> Sinn und Bedeutung 9</i>, Nijmegen:
+Nijmegen Center for Semantics, pp.475-488. </li>
 
-<li> 2003 On the syntax and semantics of content questions in Yucatec
-Maya. <b> Judith Tonhauser</b>, <i> 6th Workshop on
-  American Indian Languages</i> , Santa Barbara
-Papers in Linguistics, vol.14, pp.106-121 </li>
+<li>On the syntax and semantics of content questions in Yucatec
+Maya. 2003. <b> Judith Tonhauser</b>, <i> 6th Workshop on
+  American Indian Languages</i>, Santa Barbara
+Papers in Linguistics, vol.14, pp.106-121. </li>
 
-<li> 2003 F-constructions in Yucatec Maya. <b> Judith Tonhauser</b>,  <i> 
-  Semantics of Under-represented Languages in the Americas 2</i> ,
+<li>F-constructions in Yucatec Maya. 2003. <b> Judith Tonhauser</b>,  <i> 
+  Semantics of Under-represented Languages in the Americas 2</i>,
 Amherst, MA: GLSA Publications, pp.203-223. </li>
 
-<li> 2002 A dynamic semantic account of the temporal interpretation of
-noun phrases. <b> Judith Tonhauser</b>, <i> Semantics
-  and Linguistic Theory 12</i> , Ithaca, NY: CLC Publications, pp.286-305. </li>
+<li>A dynamic semantic account of the temporal interpretation of
+noun phrases. 2002. <b> Judith Tonhauser</b>, <i> Semantics
+  and Linguistic Theory 12</i>, Ithaca, NY: CLC Publications, pp.286-305. </li>
 
-<li> 2002 Treating polarity sensitivity by lexical underspecification:
-Motivation from semantic scope. <b> Judith Tonhauser</b>, 
-<i> Linguistics on the Way into the Third Millenium</i> , Bern: Peter Lang, pp.829-837 </li>
+<li> Treating polarity sensitivity by lexical underspecification:
+Motivation from semantic scope. 2002. <b> Judith Tonhauser</b>, 
+<i> Linguistics on the Way into the Third Millenium</i>, Bern: Peter Lang, pp.829-837. </li>
 
-<li> 2000 An approach to polarity sensitivity and negative concord by
-lexical underspecification. <b> Judith Tonhauser</b>, <i> 7th
-  International Conference on HPSG</i> , Stanford: CSLI Publications,
-pp.285-304 </li>
+<li>An approach to polarity sensitivity and negative concord by
+lexical underspecification. 2000. <b> Judith Tonhauser</b>, <i> 7th
+  International Conference on HPSG</i>, Stanford: CSLI Publications,
+pp.285-304. </li>
 
-<li> 1996 Psychological constraints on plausible default inheritance
-reasoning. Carl Vogel and <b> Judith Tonhauser</b>, <i> 5th
-  International Conference on Knowledge Representation and Reasoning</i> ,
-Cambridge, MA: Morgan Kaufmann, pp.608-619  </li>
+<li>Psychological constraints on plausible default inheritance
+reasoning. 1996. Carl Vogel and <b> Judith Tonhauser</b>, <i> 5th
+  International Conference on Knowledge Representation and Reasoning</i>,
+Cambridge, MA: Morgan Kaufmann, pp.608-619.  </li>
 
 </ol>
 
