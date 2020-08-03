@@ -94,65 +94,65 @@ Motivation from semantic scope. 2002. <b> Judith Tonhauser</b>,
 ### Conference proceedings papers
 
 1. [On the prosody of presupposition projection: A production experiment](http://judith-tonhauser.github.io/files/Vaiksnoraite-etal2019.pdf). 2019. Elena Vaiksnoraite, Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>. <i> North East Linguistic Society</i>  49, pp.241-254. 
-1. On the information structure sensitivity of projective content. 2019. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe, Shari R. Speer and Jon Stevens, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.923-949.
-1. The CommitmentBank: Investigating projection in naturally occurring discourse. 2019. Marie-Catherine de Marneffe, Mandy Simons and <b> Judith Tonhauser</b>, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.663-680.
-1. Predicting projection from rational use of prosody. 2017. Jon Stevens, Marie-Catherine de Marneffe, Shari R. Speer and <b> Judith Tonhauser</b>, <i> Annual Conference of the Cognitive Science Society</i>, pp.1144-1149. 
-1. Prosodic cues to presupposition projection. 2016.
+1. [On the information structure sensitivity of projective content](http://judith-tonhauser.github.io/files/tonhauser-etal-SuB2019.pdf). 2019. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe, Shari R. Speer and Jon Stevens, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.923-949.
+1. [The CommitmentBank: Investigating projection in naturally occurring discourse](http://judith-tonhauser.github.io/files/deMarneffe-etal-SuB2019.pdf). 2019. Marie-Catherine de Marneffe, Mandy Simons and <b> Judith Tonhauser</b>, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.663-680.
+1. [Predicting projection from rational use of prosody](http://judith-tonhauser.github.io/files/Stevens-etal-2017.pdf). 2017. Jon Stevens, Marie-Catherine de Marneffe, Shari R. Speer and <b> Judith Tonhauser</b>, <i> Annual Conference of the Cognitive Science Society</i>, pp.1144-1149. 
+1. [Prosodic cues to presupposition projection](http://judith-tonhauser.github.io/files/tonhauser-salt26.pdf). 2016.
 <b> Judith Tonhauser</b>, <i> Semantics and Linguistic Theory 26</i>,
 Ithaca, LSA and CLC Publications, pp.934-960. 
-1. Reportative evidentiality in Paraguayan Guaraní. 2014. <b> Judith
+1. [Reportative evidentiality in Paraguayan Guaraní](http://judith-tonhauser.github.io/files/tonhauser-sula7.pdf). 2014. <b> Judith
 Tonhauser</b>, <i> Semantics of Under-represented
   Languages of the Americas 7</i>, Amherst, MA: GLSA
 Publications, pp.189-204. 
-1. Contrastive topics in Paraguayan Guaraní discourse. 2012.
+1. [Contrastive topics in Paraguayan Guaraní discourse](http://judith-tonhauser.github.io/files/tonhauser-salt22.pdf). 2012.
 <b> Judith Tonhauser</b>, <i> Semantics and Linguistic Theory 22</i> ,
 Ithaca, NY: CLC Publications, pp.268-285. 
-1. Diagnosing (not-)at-issue content. 2012. <b> Judith Tonhauser</b>, <i> 
+1. [Diagnosing (not-)at-issue content](http://judith-tonhauser.github.io/files/tonhauser-SULA6). 2012. <b> Judith Tonhauser</b>, <i> 
   Semantics of Under-represented Languages of the Americas 6</i>,
 Amherst, MA: GLSA Publications, pp.239-254. 
-1. What projects and why? 2011. Mandy Simons, <b> Judith Tonhauser</b>,
+1. [What projects and why?](http://judith-tonhauser.github.io/files/simons-etal-2010.pdf). 2011. [Mandy Simons, <b> Judith Tonhauser</b>,
 David Beaver and Craige Roberts, <i> Semantics and Linguistic Theory
   20</i>, Ithaca, NY: CLC Publications, pp.309-327. 
-1. On the prosodic coding of focus in Paraguayan Guaraní. 2011. Cynthia
+1. [On the prosodic coding of focus in Paraguayan Guaraní](http://judith-tonhauser.github.io/files/WCCFL-Clopper-Tonhauser2.pdf). 2011. [Cynthia
 G. Clopper and <b> Judith Tonhauser</b>, <i> West Coast Conference on
 Formal Linguistics 28</i>, Somerville, MA: Cascadilla
 Proceedings Project, pp.249-257. 
-1. Is Paraguayan Guaraní a tenseless language? 2010. <b> Judith
+1. [Is Paraguayan Guaraní a tenseless language?](http://judith-tonhauser.github.io/files/ tonhauser-sula5.pdf). 2010. <b> Judith
 Tonhauser</b>, <i> Semantics of Under-represented Languages of the
   Americas 5</i>, Amherst, MA: GLSA Publications, pp.227-242. 
-1. Presupposition, conventional implicature, and beyond: A
-unified account of projection. 2009. Craige Roberts, Mandy Simons, David
+1. [Presupposition, conventional implicature, and beyond: A
+unified account of projection](http://judith-tonhauser.github.io/files/roberts-etal2009.pdf). 2009. Craige Roberts, Mandy Simons, David
 Beaver and <b> Judith Tonhauser</b>, in Klinedinst, N. & D. Rothschild (eds.) <i> New Directions in the Theory of
   Presupposition</i>, European Summer School in Logic, Language and Information, Toulouse, France. 
-1. Counterfactuality and future time reference: The case of
-Paraguayan Guaraní <i> -mo'ã</i>. 2009. <b> Judith Tonhauser</b>, <i> Sinn
-  und Bedeutung 13</i>, University of Stuttgart, pp.527-541. 
-1. On the cross-linguistic interpretation of embedded tenses. 2009.
+1. [Counterfactuality and future time reference: The case of
+Paraguayan Guaraní <i> -mo'ã</i>](http://judith-tonhauser.github.io/files/tonhauser-SUB13.pdf). 2009. <b> Judith Tonhauser</b>, <i> Sinn
+  und Bedeutung 13</i>, University of Stuttgart, pp.527-541. [
+1. [On the cross-linguistic interpretation of embedded tenses](http://judith-tonhauser.github.io/files/kubota-etal-SuB13.pdf). 2009.
 Yusuke Kubota, Jungmee Lee, Anastasia Smirnova and <b> Judith Tonhauser</b>,
 <i> Sinn und Bedeutung 13</i>, University of Stuttgart, pp.307-320. 
-1. What is nominal tense? A case study of Paraguayan Guaraní. 2007.
+1. [What is nominal tense? A case study of Paraguayan Guaraní](http://judith-tonhauser.github.io/files/tonhauser-SULA3.pdf). 2007.
 <b> Judith Tonhauser</b>, <i> Semantics of Under-represented Languages 3</i>, Amherst, MA: GLSA Publications, pp.149-168. 
-1. Agent focus and voice in Yucatec Maya. 2007. <b> Judith Tonhauser</b>, 
+1. [Agent focus and voice in Yucatec Maya](http://judith-tonhauser.github.io/files/tonhauser-CLS39.pdf). 2007. <b> Judith Tonhauser</b>, 
 <i> 39th Annual Meeting of the Chicago Linguistic Society</i>,
 Chicago: Chicago Linguistic Society, pp.540-558. 
-1. Towards an understanding of the meaning of nominal tense. 2005. <b> Judith  Tonhauser</b>, <i> Sinn und Bedeutung 9</i>, Nijmegen:
+1. [Towards an understanding of the meaning of nominal tense](http://judith-tonhauser.github.io/files/tonhauser-sub9.pdf). 2005. <b> Judith  Tonhauser</b>, <i> Sinn und Bedeutung 9</i>, Nijmegen:
 Nijmegen Center for Semantics, pp.475-488. 
-1. On the syntax and semantics of content questions in Yucatec
-Maya. 2003. <b> Judith Tonhauser</b>, <i> 6th Workshop on
+1. [On the syntax and semantics of content questions in Yucatec
+Maya](http://judith-tonhauser.github.io/files/tonhauser-WAIL03.pdf). 2003. <b> Judith Tonhauser</b>, <i> 6th Workshop on
   American Indian Languages</i>, Santa Barbara
-Papers in Linguistics, vol.14, pp.106-121. 
-1. F-constructions in Yucatec Maya. 2003. <b> Judith Tonhauser</b>,  <i> 
+Papers in Linguistics, vol.14, pp.106-121. [
+1. [F-constructions in Yucatec Maya](http://judith-tonhauser.github.io/files/tonhauser-sula2.pdf). 2003. <b> Judith Tonhauser</b>,  <i> 
   Semantics of Under-represented Languages in the Americas 2</i>,
 Amherst, MA: GLSA Publications, pp.203-223. 
-1. A dynamic semantic account of the temporal interpretation of
-noun phrases. 2002. <b> Judith Tonhauser</b>, <i> Semantics
+1. [A dynamic semantic account of the temporal interpretation of
+noun phrases](http://judith-tonhauser.github.io/files/tonhauser-salt2002-published.pdf). 2002. <b> Judith Tonhauser</b>, <i> Semantics
   and Linguistic Theory 12</i>, Ithaca, NY: CLC Publications, pp.286-305. 
-1. An approach to polarity sensitivity and negative concord by
-lexical underspecification. 2000. <b> Judith Tonhauser</b>, <i> 7th
+1. [An approach to polarity sensitivity and negative concord by
+lexical underspecification](http://judith-tonhauser.github.io/files/tonhauser-hpsg-2000.pdf). 2000. <b> Judith Tonhauser</b>, <i> 7th
   International Conference on HPSG</i>, Stanford: CSLI Publications,
 pp.285-304. 
-1. Psychological constraints on plausible default inheritance
-reasoning. 1996. Carl Vogel and <b> Judith Tonhauser</b>, <i> 5th
+1. [Psychological constraints on plausible default inheritance
+reasoning](http://judith-tonhauser.github.io/files/vogel-tonhauser96.pdf). 1996. Carl Vogel and <b> Judith Tonhauser</b>, <i> 5th
   International Conference on Knowledge Representation and Reasoning</i>,
 Cambridge, MA: Morgan Kaufmann, pp.608-619.  
 
