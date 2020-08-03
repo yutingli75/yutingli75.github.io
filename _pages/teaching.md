@@ -30,9 +30,10 @@ These [guidelines](https://github.com/judith-tonhauser/teaching-materials/blob/m
 
 You are welcome to develop a research question for your thesis based on your own interests (as long as I feel comfortable advising a thesis on that topic). I generally expect both Bachelor and Master theses to include an original research component, which means that you will collect and analyze production or comprehension data to investigate the research question addressed in your thesis.
 
-Here are the titles of theses I have advised at the University of Stuttgart:
-
+Here are titles of theses I have recently advised at the University of Stuttgart:
 * Modification with <i>falsely</i>: Evidence for entailment relations
 * The variable (ING): A case study of Michelle Obama
-*
+* The acquisition of the English progressive aspect by L1 Ukranian speakers
+* The prosody of emotional meanings in English
+* Presupposition in neurodiverse populations
 
