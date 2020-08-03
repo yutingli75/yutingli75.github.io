@@ -14,41 +14,36 @@ redirect_from:
 ### Peer-reviewed journal publications
 
 <ol reversed>
-  <li> accepted Evaluative adjective sentences: A question-based analysis of projection. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen. <i> Glossa</i>  
-2. in press Projection variability in Paraguayan Guaraní. <b> Judith Tonhauser</b>. <i> Natural Language and Linguistic Theory</i>  </li>
-  <li>in press Projection variability in Paraguayan Guaraní. <b> Judith Tonhauser</b>. <i> Natural Language and Linguistic Theory</i>  </li>
-  <li>2018 How projective is projective content? Gradience in projectivity and at-issueness. <b> Judith Tonhauser</b>, David Beaver and Judith Degen, <i> Journal of Semantics</i>  35:495-542.\\ </li>
-  <li>2017 The Best Question: Explaining the projection behavior of
-factive verbs. Mandy Simons, David Beaver, Craige Roberts and {\bf
-Judith Tonhauser</b>, <i> Discourse Processes</i>  54:187-206. \\</li>
-  <li>2015 Contextual information and the prosodic realization of focus: A
-cross-linguistic comparison. Rory Turnbull, Rachel Burdin, Cynthia G.
+  <li> Evaluative adjective sentences: A question-based analysis of projection. Accepted. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen. <i> Glossa</i>. </li> 
+2. Projection variability in Paraguayan Guaraní. In press. <b> Judith Tonhauser</b>. <i> Natural Language and Linguistic Theory</i>.  </li>
+<li>How projective is projective content? Gradience in projectivity and at-issueness. 2018. <b> Judith Tonhauser</b>, David Beaver and Judith Degen, <i> Journal of Semantics</i> 35:495-542. </li>
+  <li>The Best Question: Explaining the projection behavior of
+factive verbs. 2017. Mandy Simons, David Beaver, Craige Roberts and <b> Judith  Tonhauser</b>, <i> Discourse Processes</i>  54:187-206. </li>
+  <li>Contextual information and the prosodic realization of focus: A
+cross-linguistic comparison. 2015. Rory Turnbull, Rachel Burdin, Cynthia G.
 Clopper and <b> Judith Tonhauser</b>, <i> Language, Cognition and
 Neuroscience</i>  30:1061-1076; special issue on <i> Laboratory in the
-Field: Advances in Cross-Linguistic Psycholinguistics</i>. \\</li>
-  <li>2015 Variation in the prosody of focus in head- and head/edge-prominence languages. Rachel Burdin, Sara Phillips-Bourass, Rory Turnbull, Murat Yasavul, Cynthia G. Clopper and <b> Judith Tonhauser</b>, <i> Lingua</i>  165:254-276; special issue on <i> Prosody and Information Structure in Typological Perspective</i>.\\ </li>
-  <li>2015 Are `informative presuppositions' presuppositions? <b> Judith Tonhauser</b>, <i> Language and Linguistics Compass</i>  9:77-101 \\</li>
-  <li>2013 Toward a taxonomy of projective content. <b> Judith Tonhauser</b>,
-David Beaver, Craige Roberts and Mandy Simons, <i> Language</i>  89:66-109. \\</li>
-  <li>2013  The prosody of focus in Paraguayan Guaraní. Cynthia
+Field: Advances in Cross-Linguistic Psycholinguistics</i>.  </li>
+  <li>Variation in the prosody of focus in head- and head/edge-prominence languages. 2015. Rachel Burdin, Sara Phillips-Bourass, Rory Turnbull, Murat Yasavul, Cynthia G. Clopper and <b> Judith Tonhauser</b>, <i> Lingua</i>  165:254-276; special issue on <i> Prosody and Information Structure in Typological Perspective</i>. </li>
+  <li>Are `informative presuppositions' presuppositions? 2015. <b> Judith Tonhauser</b>. <i> Language and Linguistics Compass</i>  9:77-101  </li>
+  <li>Toward a taxonomy of projective content. 2013. <b> Judith Tonhauser</b>,
+David Beaver, Craige Roberts and Mandy Simons, <i> Language</i>  89:66-109. </li>
+  <li>The prosody of focus in Paraguayan Guaraní. 2013. Cynthia
 G.\ Clopper and <b> Judith Tonhauser</b>, <i> International
-  Journal of American Linguistics</i>  79:219-251. \\</li>
-  <li>2011 Temporal reference in Paraguayan Guaraní, a tenseless
-language. <b> Judith Tonhauser</b>, <i> Linguistics \&
-  Philosophy</i>  34:257-303. \\</li>
-  <li>2011 The diachrony and synchrony of differential object marking in
-Paraguayan Guaraní. Cory Shain and <b> Judith Tonhauser</b>, <i> Language
-  Variation and Change</i>  22:321-346. \\</li>
-  <li>2010 Temporal interpretation without tense: Coordination
-constructions in Korean and Japanese. Jungmee Lee and <b> Judith
-Tonhauser</b>, <i> Journal of Semantics</i>  27:307-341. \\</li>
-  <li>2010 Word order in Paraguayan Guaran\yi, <b> Judith Tonhauser </b> and
-Erika Colijn. <i> International Journal of American Linguistics</i>  76:255-288. \\</li>
-  <li>2008 Defining cross-linguistic categories: The case of nominal
-tense. Reply to Nordlinger and Sadler (2008). <b> Judith Tonhauser</b>, {\em
-  Language</i>  84:332-342 </li>
-  <li>2007 Nominal tense? The meaning of Guaran\yi{</i>  nominal temporal
-markers. <b> Judith Tonhauser</b>, <i> Language</i>  83:831-869. </li>
+  Journal of American Linguistics</i>  79:219-251.  </li>
+  <li>Temporal reference in Paraguayan Guaraní, a tenseless
+language. 2011. <b> Judith Tonhauser</b>, <i> Linguistics \&
+  Philosophy</i>  34:257-303.  </li>
+  <li>The diachrony and synchrony of differential object marking in
+Paraguayan Guaraní. 2011. Cory Shain and <b> Judith Tonhauser</b>, <i> Language
+  Variation and Change</i>  22:321-346.  </li>
+  <li>Temporal interpretation without tense: Coordination
+constructions in Korean and Japanese. 2010. Jungmee Lee and <b> Judith
+Tonhauser</b>, <i> Journal of Semantics</i>  27:307-341.  </li>
+  <li>Word order in Paraguayan Guaraní. 2010. <b> Judith Tonhauser </b> and
+Erika Colijn. <i> International Journal of American Linguistics</i>  76:255-288.  </li>
+  <li>Nominal tense? The meaning of Guaraní  nominal temporal
+markers. 2007. <b> Judith Tonhauser</b>, <i> Language</i>  83:831-869. </li>
 </ol>
 
 ### Invited, editor-reviewed journal papers
@@ -56,11 +51,10 @@ markers. <b> Judith Tonhauser</b>, <i> Language</i>  83:831-869. </li>
 <ol reversed>
   <li>2015 Cross-linguistic temporal reference. <b> Judith
 Tonhauser</b>, <i> Annual Review of
-Linguistics</i>  1:129-154. \\</li>
+Linguistics</i>  1:129-154.  </li>
 <li>2017 Questions Under Discussion: Where information structure meets
-projective content. David Beaver, Craige Roberts, Mandy Simons and {\bf
-Judith Tonhauser</b>. <i> Annual Review of
-Linguistics</i>  3:265-284. \\</li>
+projective content. David Beaver, Craige Roberts, Mandy Simons and <b> Judith  Tonhauser</b>. <i> Annual Review of
+Linguistics</i>  3:265-284.  </li>
   <li>2008 Defining cross-linguistic categories: The case of nominal
 tense. Reply to Nordlinger and Sadler (2008). <b> Judith Tonhauser</b>, {\em
   Language</i>  84:332-342 </li>
@@ -97,7 +91,7 @@ Tonhauser</b>, in Maienborn, C., K.\ von Heusinger and P.\ Portner (eds.)
 <li> 2011 The Paraguayan Guaran\yi{</i>  future marker <i> --ta</i> :
 Formal semantics and cross-linguistic comparison. <b> Judith Tonhauser</b>,
 in Musan, R.\ and M.\ Rathert (eds.) <i> Tense Across Languages</i> , 
-T\"ubingen: Niemeyer, pp.207-231.  \\ </li>
+T\"ubingen: Niemeyer, pp.207-231.   </li>
 
 
 <li> 2011 Cross-linguistic variation in temporal adjunct
@@ -120,7 +114,7 @@ Tonhauser</b>, in Nishida, C.\ and C.\ Russi (eds.)  <i> Cahier Chronos: Selecte
 
 <li> 2016 Prosodic cues to presupposition projection.
 <b> Judith Tonhauser</b>, <i> Semantics and Linguistic Theory 26</i> ,
-Ithaca, LSA and CLC Publications, pp.934-960.\\ </li>
+Ithaca, LSA and CLC Publications, pp.934-960. </li>
 
 <li> 2014 Reportative evidentiality in Paraguayan Guaraní. <b> Judith
 Tonhauser</b>, <i> Semantics of Under-represented
@@ -129,7 +123,7 @@ Publications, pp.189-204 </li>
 
 <li> 2012 Contrastive topics in Paraguayan Guaraní discourse.
 <b> Judith Tonhauser</b>, <i> Semantics and Linguistic Theory 22</i> ,
-Ithaca, NY: CLC Publications, pp.268-285.\\ </li>
+Ithaca, NY: CLC Publications, pp.268-285. </li>
 
 <li> 2012 Diagnosing (not-)at-issue content. <b> Judith Tonhauser</b>, {\em
   Semantics of Under-represented Languages of the Americas 6</i> ,
@@ -177,8 +171,7 @@ Yusuke Kubota, Jungmee Lee, Anastasia Smirnova and <b> Judith Tonhauser</b>,
 Chicago: Chicago Linguistic Society, pp.540-558 </li>
 
 
-<li> 2005 Towards an understanding of the meaning of nominal tense. {\bf
-Judith Tonhauser</b>, <i> Sinn und Bedeutung 9</i> , Nijmegen:
+<li> 2005 Towards an understanding of the meaning of nominal tense. <b> Judith  Tonhauser</b>, <i> Sinn und Bedeutung 9</i> , Nijmegen:
 Ni\nolinebreak[4]jmegen Center for Semantics, pp.475-488 </li>
 
 <li> 2003 On the syntax and semantics of content questions in Yucatec
@@ -188,11 +181,11 @@ Papers in Linguistics, vol.14, pp.106-121 </li>
 
 <li> 2003 F-constructions in Yucatec Maya. <b> Judith Tonhauser</b>,  {\em
   Semantics of Under-represented Languages in the Americas 2</i> ,
-Amherst, MA: GLSA Publications, pp.203-223.\\ </li>
+Amherst, MA: GLSA Publications, pp.203-223. </li>
 
 <li> 2002 A dynamic semantic account of the temporal interpretation of
 noun phrases. <b> Judith Tonhauser</b>, <i> Semantics
-  and Linguistic Theory 12</i> , Ithaca, NY: CLC Publications, pp.286-305.\\ </li>
+  and Linguistic Theory 12</i> , Ithaca, NY: CLC Publications, pp.286-305. </li>
 
 <li> 2002 Treating polarity sensitivity by lexical underspecification:
 Motivation from semantic scope. <b> Judith Tonhauser</b>, 
