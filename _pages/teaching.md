@@ -9,22 +9,22 @@ redirect_from:
 
 This page provides information on my courses at the University of Stuttgart as well as on the Bachelor and Master theses I advise. 
 
-# Courses at the University of Stuttgart
+### Courses at the University of Stuttgart
 
-* Language & Cognition: Introduction to psycholinguistics
+* Language & Cognition: Introduction to psycholinguistics (yearly, since WiSe 2018/19)
 
-* Language Variation: Introduction to sociolinguistics
+* Language Variation: Introduction to sociolinguistics (yearly, since SoSe 2019)
 
 * Advanced Semantics:
-	* Language in Use: Pragmatics
-	* Clause-embedding predicates in discourse
-	* Social Meaning
+	* Language in Use: Pragmatics (WiSe 2018/19)
+	* Clause-embedding predicates in discourse (WiSe 2019/20, SoSe 2020, WiSe 2020/21)
+	* Social Meaning (WiSe 2019/20, WiSe 2020/21)
 
-* Colloquium: Semantics, pragmatics and psycholinguistics
+* Colloquium: Semantics, pragmatics and psycholinguistics (every semester since WiSe 2018/19)
 
-* Research colloquium in syntax, semantics and pragmatics
+* Research colloquium in syntax, semantics and pragmatics (every semester since WiSe 2018/19)
 
-# Bachelor and Master theses
+### Bachelor and Master theses
 
 [guidelines](https://github.com/judith-tonhauser/teaching-materials/blob/master/6_paper-and-thesis-guidelines.pdf)
 
