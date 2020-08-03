@@ -12,7 +12,6 @@ This page provides information on my courses at the University of Stuttgart as w
 ### Courses at the University of Stuttgart
 
 * Language & Cognition: Introduction to psycholinguistics (yearly, since WiSe 2018/19)
-
 * Language Variation: Introduction to sociolinguistics (yearly, since SoSe 2019)
 
 * Advanced Semantics:
@@ -28,21 +27,11 @@ This page provides information on my courses at the University of Stuttgart as w
 
 I advise theses on topics in semantics and pragmatics and on social meaning. To write a thesis with me, you will ideally have taken at least one course with me, so that your thesis can build on the course content. 
 
+
+
 [guidelines](https://github.com/judith-tonhauser/teaching-materials/blob/master/6_paper-and-thesis-guidelines.pdf)
 
+* 
 
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
+*
 
