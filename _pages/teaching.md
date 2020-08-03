@@ -24,9 +24,9 @@ This page provides information on my courses at the University of Stuttgart as w
 
 I advise theses on topics in semantics and pragmatics and on social meaning. To write a thesis with me, you will ideally have taken at least one course with me, so that your thesis can build on the course content. 
 
+These [guidelines](https://github.com/judith-tonhauser/teaching-materials/blob/master/6_paper-and-thesis-guidelines.pdf) provide information on my expectations regarding the content, organization and mechanics of theses (and term papers) as well as on how I grade theses (and term papers). Please review them carefully if you are thinking of writing a thesis with me (I also go over these guidelines in courses that require a term paper).
 
-
-[guidelines](https://github.com/judith-tonhauser/teaching-materials/blob/master/6_paper-and-thesis-guidelines.pdf)
+You are welcome to develop a research question for your thesis based on your own interests (as long as I feel comfortable advising a thesis on that topic). I generally expect both Bachelor and Master theses to 
 
 * 
 
