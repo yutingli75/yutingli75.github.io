@@ -105,9 +105,9 @@ Motivation from semantic scope. 2002. <b> Judith Tonhauser</b>,
 
 ### Conference proceedings papers
 
-1-. three  
-1. two
-1. one
+13.
+12.
+11.
 
 <ol reversed>
 <li> On the prosody of presupposition projection: A production experiment. 2019. Elena Vaiksnoraite, Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>. <i> North East Linguistic Society</i>  49, pp.241-254. </li>  [pdf](http://judith-tonhauser.github.io/files/vaiksnoraite-etal2019.pdf)
