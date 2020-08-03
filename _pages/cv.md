@@ -37,7 +37,7 @@ Please contact me for a full CV.
   
 ## Current and recent service to the field
 
-* 2020-2021: Program committee for the 2021 Annual Meeting, [Deutsche Gesellschaft für Sprachwissenschaft](https://dgfs.de/de/)
+* 2020-2021: Program committee for the 2021 Annual Meeting of the [Deutsche Gesellschaft für Sprachwissenschaft](https://dgfs.de/de/)
 * 2017-2019: Committee on Committee and Delegate Appointments, [Linguistic Society of America](https://lsadc.org)
 * 2018-now: Editorial board member, [Zeitschrift für Sprachwissenschaft](https://dgfs.de/de/inhalt/zeitschrift-zs.html)
 * 2013-now: Associate editor, [Semantics & Pragmatics](https://semprag.org)
