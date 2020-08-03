@@ -57,47 +57,46 @@ projective content. 2017. David Beaver, Craige Roberts, Mandy Simons and <b> Jud
 Linguistics</i>  3:265-284.  </li>
   <li>Defining cross-linguistic categories: The case of nominal
 tense. 2008. Reply to Nordlinger and Sadler (2008). <b> Judith Tonhauser</b>, <i> 
-  Language</i>  84:332-342 </li>
+  Language</i>  84:332-342. </li>
 </ol>
 
 ### Book chapters
 
 <ol reversed>
-  <li> 
-in press Managing web-experiments for psycholinguistics: An example from experimental semantics/pragmatics, Judith Degen and <b> Judith Tonhauser</b>, in Berez-Kroeker, A.\ L.\ and B.\ McDonnell and E.\ Koller (eds.) Open Handbook of Linguistic Data Management, Cambridge, MA: MIT Press Open </li>
+  <li> Managing web-experiments for psycholinguistics: An example from experimental semantics/pragmatics. In press. Judith Degen and <b> Judith Tonhauser</b>, in Berez-Kroeker, A. L. and B. McDonnell and E. Koller (eds.) Open Handbook of Linguistic Data Management, Cambridge, MA: MIT Press Open. </li>
 
-<li> in press Temporal properties of noun phrases. <b> Judith Tonhauser</b>,
-in Gutzmann, D., Matthewson, L., C.\ Meier, H.\ Rullmann and T.\ E.\ Zimmermann (eds.) <i> Companion to Semantics</i> , New York: Wiley Blackwell </li>
+<li> Temporal properties of noun phrases. In press. <b> Judith Tonhauser</b>,
+in Gutzmann, D., Matthewson, L., C. Meier, H. Rullmann and T. E. Zimmermann (eds.) <i> Companion to Semantics</i> , New York: Wiley Blackwell. </li>
 
-<li> 2019  Prosody and meaning: On the production, perception and interpretation of prosodically marked focus. <b> Judith Tonhauser</b>, in Cummins, C.\ and N.\ Katsos (eds.) <i> Handbook of Experimental Semantics and Pragmatics</i> , Oxford: Oxford University Press, pp.494-511.\\  </li>
+<li> Prosody and meaning: On the production, perception and interpretation of prosodically marked focus. 2019. <b> Judith Tonhauser</b>, in Cummins, C. and N. Katsos (eds.) <i> Handbook of Experimental Semantics and Pragmatics</i>, Oxford: Oxford University Press, pp.494-511.  </li>
 
-<li> 2019 Inferring meaning from indirect answers to polar questions: 
-The contribution of the rise-fall-rise contour. Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>, in Onea, E., M.\ Zimmermann, and K.\ von Heusinger (eds.) <i> Questions in Discourse</i> , Leiden: Brill Publishing, pp.132-163 </li>
+<li> Inferring meaning from indirect answers to polar questions: 
+The contribution of the rise-fall-rise contour. 2019. Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>, in Onea, E., M. Zimmermann, and K. von Heusinger (eds.) <i> Questions in Discourse</i>, Leiden: Brill Publishing, pp.132-163. </li>
 
-<li> 2017 The distribution of implicit arguments in Paraguayan Guaran\yi. <b> Judith
-Tonhauser</b>, in Estigarribia, B. and J.\ Pinta (eds.) <i> Guaraní Linguistics in
-the 21st Century</i> , Leiden: Brill Publishing, pp.194-230 </li>
+<li> The distribution of implicit arguments in Paraguayan Guaraní. 2017. <b> Judith
+Tonhauser</b>, in Estigarribia, B. and J. Pinta (eds.) <i> Guaraní Linguistics in
+the 21st Century</i>, Leiden: Brill Publishing, pp.194-230. </li>
 
-<li> 2015 Exploring meaning in the field: Temporal and aspectual
-reference. Rebecca Cover and <b> Judith Tonhauser</b>, in Bochnak, R.\ and
-L.\ Matthewson (eds.) <i> Methodologies in Semantic Fieldwork</i> , Oxford:
-Oxford University Press, pp.306-350 </li>
+<li> Exploring meaning in the field: Temporal and aspectual
+reference. 2015. Rebecca Cover and <b> Judith Tonhauser</b>, in Bochnak, R. and
+L. Matthewson (eds.) <i> Methodologies in Semantic Fieldwork</i>, Oxford:
+Oxford University Press, pp.306-350. </li>
 
-<li> 2013 Semantics of inflection. Paul Kiparsky and <b> Judith
-Tonhauser</b>, in Maienborn, C., K.\ von Heusinger and P.\ Portner (eds.)
+<li>Semantics of inflection. 2013. Paul Kiparsky and <b> Judith
+Tonhauser</b>, in Maienborn, C., K. von Heusinger and P. Portner (eds.)
 <i> Semantics: An International Handbook of Natural Language
-  Meaning</i> , vol.\ 3, Berlin: Mouton de Gruyter, pp.2070-2097 </li>
+  Meaning</i>, vol.\ 3, Berlin: Mouton de Gruyter, pp.2070-2097. </li>
 
-<li> 2011 The Paraguayan Guaran\yi{</i>  future marker <i> --ta</i> :
-Formal semantics and cross-linguistic comparison. <b> Judith Tonhauser</b>,
-in Musan, R.\ and M.\ Rathert (eds.) <i> Tense Across Languages</i> , 
-T\"ubingen: Niemeyer, pp.207-231.   </li>
+<li> The Paraguayan Guaran\yi{</i>  future marker <i> -ta</i>:
+Formal semantics and cross-linguistic comparison. 2011. <b> Judith Tonhauser</b>,
+in Musan, R. and M. Rathert (eds.) <i> Tense Across Languages</i> , 
+Tübingen: Niemeyer, pp.207-231.   </li>
 
 
-<li> 2011 Cross-linguistic variation in temporal adjunct
-clauses. Yusuke Kubota, Jungmee Lee, Anastasia Smirnova and <b> Judith
-Tonhauser</b>, in Nishida, C.\ and C.\ Russi (eds.)  <i> Cahier Chronos: Selected Proceedings of
-  Chronos 8</i> , Amsterdam/Atlanta: Rodopi, pp.135-155 </li>
+<li>Cross-linguistic variation in temporal adjunct
+clauses. 2011. Yusuke Kubota, Jungmee Lee, Anastasia Smirnova and <b> Judith
+Tonhauser</b>, in Nishida, C. and C. Russi (eds.)  <i> Cahier Chronos: Selected Proceedings of
+  Chronos 8</i> , Amsterdam/Atlanta: Rodopi, pp.135-155. </li>
  
 </ol>
 
