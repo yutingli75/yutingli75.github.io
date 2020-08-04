@@ -7,6 +7,8 @@ redirect_from:
   - /publications.html
 ---
 
+Please contact me for copies of papers not accessible to you.
+
 ### Under review
 
 1. Which predicates are factive? An empirical investigation. <b> Judith Tonhauser </b> and Judith Degen. Under review with <i> Language</i>.
@@ -140,7 +142,7 @@ Nijmegen Center for Semantics, pp.475-488.
 1. [On the syntax and semantics of content questions in Yucatec
 Maya](http://judith-tonhauser.github.io/files/tonhauser-WAIL03.pdf). 2003. <b> Judith Tonhauser</b>, <i> 6th Workshop on
   American Indian Languages</i>, Santa Barbara
-Papers in Linguistics, vol.14, pp.106-121. [
+Papers in Linguistics, vol.14, pp.106-121. 
 1. [F-constructions in Yucatec Maya](http://judith-tonhauser.github.io/files/tonhauser-sula2.pdf). 2003. <b> Judith Tonhauser</b>,  <i> 
   Semantics of Under-represented Languages in the Americas 2</i>,
 Amherst, MA: GLSA Publications, pp.203-223. 
