@@ -115,7 +115,7 @@ Amherst, MA: GLSA Publications, pp.239-254.
 1. [What projects and why?](http://judith-tonhauser.github.io/files/simons-etal-2010.pdf). 2011. [Mandy Simons, <b> Judith Tonhauser</b>,
 David Beaver and Craige Roberts, <i> Semantics and Linguistic Theory
   20</i>, Ithaca, NY: CLC Publications, pp.309-327. 
-1. [On the prosodic coding of focus in Paraguayan Guaraní](http://judith-tonhauser.github.io/files/WCCFL-Clopper-Tonhauser2.pdf). 2011. [Cynthia
+1. [On the prosodic coding of focus in Paraguayan Guaraní](http://judith-tonhauser.github.io/files/WCCFL-Clopper-Tonhauser2.pdf). 2011. Cynthia
 G. Clopper and <b> Judith Tonhauser</b>, <i> West Coast Conference on
 Formal Linguistics 28</i>, Somerville, MA: Cascadilla
 Proceedings Project, pp.249-257. 
