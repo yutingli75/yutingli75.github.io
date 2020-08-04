@@ -24,7 +24,7 @@ Please contact me for a full CV.
 ## Education
 
 * 2006: Ph.D. in Linguistics, Stanford University
-* 2000: Diploma in Linguistics, University of Stuttgart
+* 2000: Diploma in Computational Linguistics, University of Stuttgart
 
 ## Fellowships and awards
 
