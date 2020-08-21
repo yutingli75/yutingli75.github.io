@@ -132,7 +132,7 @@ Paraguayan Guaraní <i> -mo'ã</i>](http://judith-tonhauser.github.io/files/tonh
 1. [On the cross-linguistic interpretation of embedded tenses](http://judith-tonhauser.github.io/files/kubota-etal-SuB13.pdf). 2009.
 Yusuke Kubota, Jungmee Lee, Anastasia Smirnova and <b> Judith Tonhauser</b>,
 <i> Sinn und Bedeutung 13</i>, University of Stuttgart, pp.307-320. 
-1. [What is nominal tense? A case study of Paraguayan Guaraní](http://judith-tonhauser.github.io/files/tonhauser-SULA3.pdf). 2007.
+1. [What is nominal tense? A case study of Paraguayan Guaraní](http://judith-tonhauser.github.io/files/tonhauser-SULA3-2007.pdf). 2007.
 <b> Judith Tonhauser</b>, <i> Semantics of Under-represented Languages 3</i>, Amherst, MA: GLSA Publications, pp.149-168. 
 1. [Agent focus and voice in Yucatec Maya](http://judith-tonhauser.github.io/files/tonhauser-CLS39.pdf). 2007. <b> Judith Tonhauser</b>, 
 <i> 39th Annual Meeting of the Chicago Linguistic Society</i>,
