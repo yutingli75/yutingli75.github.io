@@ -28,6 +28,8 @@ When listeners infer that speakers are committed to utterance content that is co
 
 ### Prosody
 
+Utterance meaning is contributed not just by the expressions uttered but also by <i>how</i> a speaker produces the expressions uttered, including the relative prominences and groupings of the words and the tonal movements. My research to date has investigated the prosody of focus in a variety of languages, including (http://dx.doi.org/doi:10.1086/669629)[Paraguayan Guaraní] as well as (http://www.tandfonline.com/doi/abs/10.1080/23273798.2015.1071856?journalCode=plcp21)[K'iche and Moroccan Arabic]. In an ongoing project, [https://u.osu.edu/deo.13/](Ashwini Deo) and I are investigating the prosody of focus in Marathi, Gujarati and Chodri, three South Asian languages. I am particularly interested in the contribution prosody makes to pragmatic phenomena, like [conversational implicatures](http://judith-tonhauser.github.io/files/deMarneffe-Tonhauser-QiD.pdf) and [presupposition projection](http://judith-tonhauser.github.io/files/tonhauser-etal-SuB-2019.pdf).
+
 ### Reference
 
 ### Social meaning
