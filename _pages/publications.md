@@ -96,7 +96,7 @@ Motivation from semantic scope. 2002. <b> Judith Tonhauser</b>,
 ### Conference proceedings papers
 
 1. [On the prosody of presupposition projection: A production experiment](http://judith-tonhauser.github.io/files/Vaiksnoraite-etal2019.pdf). 2019. Elena Vaiksnoraite, Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>. <i> North East Linguistic Society</i>  49, pp.241-254. 
-1. [On the information structure sensitivity of projective content](http://judith-tonhauser.github.io/files/tonhauser-etal-SuB2019.pdf). 2019. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe, Shari R. Speer and Jon Stevens, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.923-949.
+1. [On the information structure sensitivity of projective content](http://judith-tonhauser.github.io/files/tonhauser-etal-SuB-2019.pdf). 2019. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe, Shari R. Speer and Jon Stevens, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.923-949.
 1. [The CommitmentBank: Investigating projection in naturally occurring discourse](http://judith-tonhauser.github.io/files/deMarneffe-etal-SuB2019.pdf). 2019. Marie-Catherine de Marneffe, Mandy Simons and <b> Judith Tonhauser</b>, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.663-680.
 1. [Predicting projection from rational use of prosody](http://judith-tonhauser.github.io/files/Stevens-etal-2017.pdf). 2017. Jon Stevens, Marie-Catherine de Marneffe, Shari R. Speer and <b> Judith Tonhauser</b>, <i> Annual Conference of the Cognitive Science Society</i>, pp.1144-1149. 
 1. [Prosodic cues to presupposition projection](http://judith-tonhauser.github.io/files/tonhauser-salt26.pdf). 2016.
