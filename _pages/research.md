@@ -36,5 +36,7 @@ Reference is the phenomenon whereby the interpretation of an expression is depen
 
 ### Social meaning
 
+I have recently become interested in social meaning, i.e., the question of what a speaker's utterance indexes about the speaker's social identity and what listeners infer from speaker's utterances about their position in the social landscape. 
+
 
 
