@@ -11,7 +11,7 @@ Please contact me for copies of papers not accessible to you.
 
 ### Under review
 
-1. Which predicates are factive? An empirical investigation. <b> Judith Tonhauser </b> and Judith Degen. Under revision.
+1. Which predicates are factive? An empirical investigation. <b> Judith Tonhauser </b> and Judith Degen. Under revision. [initial submission](https://ling.auf.net/lingbuzz/005360)
 
 ### Peer-reviewed journal publications
 
