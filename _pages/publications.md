@@ -134,7 +134,7 @@ Yusuke Kubota, Jungmee Lee, Anastasia Smirnova and <b> Judith Tonhauser</b>,
 <i> Sinn und Bedeutung 13</i>, University of Stuttgart, pp.307-320. 
 1. [What is nominal tense? A case study of Paraguayan Guaraní](http://judith-tonhauser.github.io/files/tonhauser-SULA3-2007.pdf). 2007.
 <b> Judith Tonhauser</b>, <i> Semantics of Under-represented Languages 3</i>, Amherst, MA: GLSA Publications, pp.149-168. 
-1. [Agent focus and voice in Yucatec Maya](http://judith-tonhauser.github.io/files/tonhauser-CLS39.pdf). 2007. <b> Judith Tonhauser</b>, 
+1. [Agent focus and voice in Yucatec Maya](http://judith-tonhauser.github.io/files/tonhauser-CLS39-2007.pdf). 2007. <b> Judith Tonhauser</b>, 
 <i> 39th Annual Meeting of the Chicago Linguistic Society</i>,
 Chicago: Chicago Linguistic Society, pp.540-558. 
 1. [Towards an understanding of the meaning of nominal tense](http://judith-tonhauser.github.io/files/tonhauser-sub9.pdf). 2005. <b> Judith  Tonhauser</b>, <i> Sinn und Bedeutung 9</i>, Nijmegen:
