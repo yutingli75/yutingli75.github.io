@@ -16,7 +16,7 @@ Please contact me for copies of papers not accessible to you.
 ### Peer-reviewed journal publications
 
 1. Evaluative adjective sentences: A question-based analysis of projection. In press. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen, <i> Glossa</i>.  
-1.  Projection variability in Paraguayan Guaraní. In press. <b> Judith Tonhauser</b>, <i> Natural Language and Linguistic Theory</i>.  
+1.  Projection variability in Paraguayan Guaraní. In press. <b> Judith Tonhauser</b>, <i> Natural Language and Linguistic Theory</i>.  [preprint](http://judith-tonhauser.github.io/files/tonhauser-NLLT-preprint.pdf)
 1. How projective is projective content? Gradience in projectivity and at-issueness. 2018. <b> Judith Tonhauser</b>, David Beaver and Judith Degen, <i> Journal of Semantics</i> 35:495-542. [(doi)](https://doi.org/10.1093/jos/ffy007)
 1. The Best Question: Explaining the projection behavior of
 factive verbs. 2017. Mandy Simons, David Beaver, Craige Roberts and <b> Judith  Tonhauser</b>, <i> Discourse Processes</i>  54:187-206. [(doi)](http://www.tandfonline.com/doi/abs/10.1080/0163853X.2016.1150660)
@@ -28,7 +28,7 @@ Field: Advances in Cross-Linguistic Psycholinguistics</i>.  [(doi)](http://www.t
 1. Variation in the prosody of focus in head- and head/edge-prominence languages. 2015. Rachel Burdin, Sara Phillips-Bourass, Rory Turnbull, Murat Yasavul, Cynthia G. Clopper and <b> Judith Tonhauser</b>, <i> Lingua</i>  165:254-276; special issue on <i> Prosody and Information Structure in Typological Perspective</i>. [(doi)](http://dx.doi.org/10.1016/j.lingua.2014.10.001)
 1. Are 'informative presuppositions' presuppositions? 2015. <b> Judith Tonhauser</b>, <i> Language and Linguistics Compass</i>  9:77-101  [(doi)](http://onlinelibrary.wiley.com/doi/10.1111/lnc3.12119/abstract)
 1. Toward a taxonomy of projective content. 2013. <b> Judith Tonhauser</b>,
-David Beaver, Craige Roberts and Mandy Simons, <i> Language</i>  89:66-109. [(doi)](https://muse.jhu.edu/article/503025), [Best Paper in Language 2013](http://www.linguisticsociety.org/news/2013/12/04/best-paper-in-language-award-announced-2013)
+David Beaver, Craige Roberts and Mandy Simons, <i> Language</i>  89:66-109. [(doi)](https://muse.jhu.edu/article/503025), [Best Paper in Language 2013](https://www.linguisticsociety.org/news/2013/12/04/best-paper-language-award-announced-2013)
 1. The prosody of focus in Paraguayan Guaraní. 2013. Cynthia
 G. Clopper and <b> Judith Tonhauser</b>, <i> International
   Journal of American Linguistics</i>  79:219-251.  [(doi)](http://dx.doi.org/doi:10.1086/669629)
@@ -65,30 +65,29 @@ tense. 2008. Reply to Nordlinger and Sadler (2008). <b> Judith Tonhauser</b>, <i
 
 1.  [Managing web-experiments for psycholinguistics: An example from experimental semantics/pragmatics.](http://alpslab.stanford.edu//papers/2020_DegenTonhauser-submitted.pdf) In press. Judith Degen and <b> Judith Tonhauser</b>, in Berez-Kroeker, A. L. and B. McDonnell and E. Koller (eds.) Open Handbook of Linguistic Data Management, Cambridge, MA: MIT Press Open. 
 1.  Temporal properties of noun phrases. In press. <b> Judith Tonhauser</b>,
-in Gutzmann, D., Matthewson, L., C. Meier, H. Rullmann and T. E. Zimmermann (eds.) <i> Companion to Semantics</i>, New York: Wiley Blackwell. 
-1.  Prosody and meaning: On the production, perception and interpretation of prosodically marked focus. 2019. <b> Judith Tonhauser</b>, in Cummins, C. and N. Katsos (eds.) <i> Handbook of Experimental Semantics and Pragmatics</i>, Oxford: Oxford University Press, pp.494-511.  <a href="papers/Tonhauser-prosody-meaning">[preprint]</a>.
+in Gutzmann, D., Matthewson, L., C. Meier, H. Rullmann and T. E. Zimmermann (eds.) <i> Companion to Semantics</i>, New York: Wiley Blackwell. [preprint](http://judith-tonhauser.github.io/files/tonhauser-NLLT-preprint.pdf)
+1.  Prosody and meaning: On the production, perception and interpretation of prosodically marked focus. 2019. <b> Judith Tonhauser</b>, in Cummins, C. and N. Katsos (eds.) <i> Handbook of Experimental Semantics and Pragmatics</i>, Oxford: Oxford University Press, pp.494-511.  [preprint](http://judith-tonhauser.github.io/files/tonhauser-prosody-meaning.pdf)
 1.  Inferring meaning from indirect answers to polar questions: 
-The contribution of the rise-fall-rise contour. 2019. Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>, in Onea, E., M. Zimmermann, and K. von Heusinger (eds.) <i> Questions in Discourse</i>, Leiden: Brill Publishing, pp.132-163. <a href="papers/deMarneffe-Tonhauser-QiD">[preprint]</a>
+The contribution of the rise-fall-rise contour. 2019. Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>, in Onea, E., M. Zimmermann, and K. von Heusinger (eds.) <i> Questions in Discourse</i>, Leiden: Brill Publishing, pp.132-163. [preprint](http://judith-tonhauser.github.io/files/deMarneffe-Tonhauser-QiD.pdf)
 1.  The distribution of implicit arguments in Paraguayan Guaraní. 2017. <b> Judith
 Tonhauser</b>, in Estigarribia, B. and J. Pinta (eds.) <i> Guaraní Linguistics in
-the 21st Century</i>, Leiden: Brill Publishing, pp.194-230. 
+the 21st Century</i>, Leiden: Brill Publishing, pp.194-230. [preprint](http://judith-tonhauser.github.io/files/tonhauser-implicit-arguments.pdf)
 1.  Exploring meaning in the field: Temporal and aspectual
 reference. 2015. Rebecca Cover and <b> Judith Tonhauser</b>, in Bochnak, R. and
 L. Matthewson (eds.) <i> Methodologies in Semantic Fieldwork</i>, Oxford:
-Oxford University Press, pp.306-350. 
+Oxford University Press, pp.306-350. [preprint](http://judith-tonhauser.github.io/files/cover-tonhauser.pdf)
 1. Semantics of inflection. 2013. Paul Kiparsky and <b> Judith
 Tonhauser</b>, in Maienborn, C., K. von Heusinger and P. Portner (eds.)
 <i> Semantics: An International Handbook of Natural Language
-  Meaning</i>, vol. 3, Berlin: Mouton de Gruyter, pp.2070-2097. 
+  Meaning</i>, vol. 3, Berlin: Mouton de Gruyter, pp.2070-2097. [preprint](http://judith-tonhauser.github.io/files/kiparsky-tonhauser.pdf)
 1.  The Paraguayan Guaraní  future marker <i> -ta</i>:
 Formal semantics and cross-linguistic comparison. 2011. <b> Judith Tonhauser</b>,
 in Musan, R. and M. Rathert (eds.) <i> Tense Across Languages</i>, 
-Tübingen: Niemeyer, pp.207-231.   <a href="papers/Tonhauser-TAL.pdf"> [preprint]</a>
+Tübingen: Niemeyer, pp.207-231.  [preprint](http://judith-tonhauser.github.io/files/tonhauser-TAL.pdf)  
 1. Cross-linguistic variation in temporal adjunct
 clauses. 2011. Yusuke Kubota, Jungmee Lee, Anastasia Smirnova and <b> Judith
 Tonhauser</b>, in Nishida, C. and C. Russi (eds.)  <i> Cahier Chronos: Selected Proceedings of
-  Chronos 8</i>, Amsterdam/Atlanta: Rodopi, pp.135-155. <a href="papers/kubota-etal-chronos.pdf">
-[preprint]</a>
+  Chronos 8</i>, Amsterdam/Atlanta: Rodopi, pp.135-155. [preprint](http://judith-tonhauser.github.io/files/kubota-etal-Chronos.pdf)
 1.  Treating polarity sensitivity by lexical underspecification:
 Motivation from semantic scope. 2002. <b> Judith Tonhauser</b>, 
 <i> Linguistics on the Way into the Third Millenium</i>, Bern: Peter Lang, pp.829-837. 
