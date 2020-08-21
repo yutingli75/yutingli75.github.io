@@ -22,9 +22,9 @@ To understand the nature and limits of cross-linguistic variation in natural lan
 
 ## Current research areas and collaborators
 
-* Projective content
+### Projective content
 
-When listeners infer that speakers are committed to utterance content that is contributed by expressions realized in the scope of an entailment-canceling operator, we say that that content projects. My research investigates the information sources listeners rely on in deriving inferences about speaker commitment and how such information is integrated (as discussed in my [SALT 30 keynote](https://www.dropbox.com/sh/guyt25gl8luvok2/AABi7n62L2uHMbirR8SC7fzoa?dl=0) in August 2020. 
+When listeners infer that speakers are committed to utterance content that is contributed by expressions realized in the scope of an entailment-canceling operator, we say that that content projects. My research investigates the information sources listeners rely on in deriving inferences about speaker commitment and how such information is integrated, as discussed in my [SALT 30 keynote](https://www.dropbox.com/sh/guyt25gl8luvok2/AABi7n62L2uHMbirR8SC7fzoa?dl=0) from August 2020. 
 
 * Prosody
 
