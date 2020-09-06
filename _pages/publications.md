@@ -15,7 +15,7 @@ Please contact me for copies of papers not accessible to you.
 
 ### Peer-reviewed journal publications
 
-1. Evaluative adjective sentences: A question-based analysis of projection. In press. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen, <i> Glossa</i>.  
+1. Evaluative adjective sentences: A question-based analysis of projection. In press. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen, <i> Glossa: a journal of general linguistics</i> 5(1): 87. 1–33.   [(doi)](https://doi.org/10.5334/gjgl.701)
 1.  Projection variability in Paraguayan Guaraní. In press. <b> Judith Tonhauser</b>, <i> Natural Language and Linguistic Theory</i>.  [preprint](http://judith-tonhauser.github.io/files/tonhauser-NLLT-preprint.pdf)
 1. How projective is projective content? Gradience in projectivity and at-issueness. 2018. <b> Judith Tonhauser</b>, David Beaver and Judith Degen, <i> Journal of Semantics</i> 35:495-542. [(doi)](https://doi.org/10.1093/jos/ffy007)
 1. The Best Question: Explaining the projection behavior of
