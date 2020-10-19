@@ -28,8 +28,8 @@ Please contact me for a full CV.
 
 ## Fellowships and awards
 
-* 2016: Early Career Award, Linguistic Society of America
-* 2014: Best Paper in Language Award, Linguistic Society of America
+* 2016: [Early Career Award](https://www.linguisticsociety.org/about/who-we-are/lsa-awards#early-career), Linguistic Society of America
+* 2014: [Best Paper in Language Award](https://www.linguisticsociety.org/about/who-we-are/lsa-awards#best-language), Linguistic Society of America
 * 2013: Humboldt-Forschungsstipendium für erfahrene Wissenschaftler, Alexander von Humboldt-Foundation
 * 2013: Frederick Burkhardt Fellowship for Recently Tenured Scholars, American Council of Learned Societies
 * 2005: Centennial Teaching Assistant Award, Stanford University
