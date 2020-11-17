@@ -15,8 +15,8 @@ Please contact me for copies of papers not accessible to you.
 
 ### Peer-reviewed journal publications
 
-1. Evaluative adjective sentences: A question-based analysis of projection. In press. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen, <i> Glossa: a journal of general linguistics</i> 5(1): 87. 1–33.   [(doi)](https://doi.org/10.5334/gjgl.701)
-1.  Projection variability in Paraguayan Guaraní. In press. <b> Judith Tonhauser</b>, <i> Natural Language and Linguistic Theory</i>.  [preprint](http://judith-tonhauser.github.io/files/tonhauser-NLLT-preprint.pdf)
+1. Evaluative adjective sentences: A question-based analysis of projection. 2020. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen, <i> Glossa: a journal of general linguistics</i> 5(1): 87. 1–33.   [(doi)](https://doi.org/10.5334/gjgl.701)
+1.  Projection variability in Paraguayan Guaraní. 2020. <b> Judith Tonhauser</b>, <i> Natural Language and Linguistic Theory</i> 38:1263-1302.  [preprint](http://judith-tonhauser.github.io/files/tonhauser-NLLT-preprint.pdf)
 1. How projective is projective content? Gradience in projectivity and at-issueness. 2018. <b> Judith Tonhauser</b>, David Beaver and Judith Degen, <i> Journal of Semantics</i> 35:495-542. [(doi)](https://doi.org/10.1093/jos/ffy007)
 1. The Best Question: Explaining the projection behavior of
 factive verbs. 2017. Mandy Simons, David Beaver, Craige Roberts and <b> Judith  Tonhauser</b>, <i> Discourse Processes</i>  54:187-206. [(doi)](http://www.tandfonline.com/doi/abs/10.1080/0163853X.2016.1150660)
@@ -64,7 +64,7 @@ tense. 2008. Reply to Nordlinger and Sadler (2008). <b> Judith Tonhauser</b>, <i
 ### Book chapters
 
 1.  Managing web-experiments for psycholinguistics: An example from experimental semantics/pragmatics.](http://alpslab.stanford.edu//papers/2020_DegenTonhauser-submitted.pdf) In press. Judith Degen and <b> Judith Tonhauser</b>, in Berez-Kroeker, A. L. and B. McDonnell and E. Koller (eds.) Open Handbook of Linguistic Data Management, Cambridge, MA: MIT Press Open. [preprint](http://alpslab.stanford.edu//papers/2020_DegenTonhauser-submitted.pdf)
-1.  Temporal properties of noun phrases. In press. <b> Judith Tonhauser</b>,
+1.  Temporal properties of noun phrases. 2021. <b> Judith Tonhauser</b>,
 in Gutzmann, D., Matthewson, L., C. Meier, H. Rullmann and T. E. Zimmermann (eds.) <i> Companion to Semantics</i>, New York: Wiley Blackwell. [preprint](http://judith-tonhauser.github.io/files/tonhauser-temporal-NPs.pdf)
 1.  Prosody and meaning: On the production, perception and interpretation of prosodically marked focus. 2019. <b> Judith Tonhauser</b>, in Cummins, C. and N. Katsos (eds.) <i> Handbook of Experimental Semantics and Pragmatics</i>, Oxford: Oxford University Press, pp.494-511.  [preprint](http://judith-tonhauser.github.io/files/tonhauser-prosody-meaning.pdf)
 1.  Inferring meaning from indirect answers to polar questions: 
