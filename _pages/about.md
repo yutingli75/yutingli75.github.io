@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full professor in the [Department of English Linguistics](https://www.ling.uni-stuttgart.de/institut/ifla/) at the University of Stuttgart, as well as the chair of the department. I am also the managing director of the [Institute of Linguistics](https://www.ling.uni-stuttgart.de/en/).
+I am a full professor in the [Department of English Linguistics](https://www.ling.uni-stuttgart.de/institut/ifla/) at the University of Stuttgart, as well as the chair of the department. I am also the executive director of the [Institute of Linguistics](https://www.ling.uni-stuttgart.de/en/).
 
 My research interests lie in the area of natural language meaning, including both semantics and pragmatics: how does meaning arise from the complex expressions that speakers utter and how do listeners understand what speakers intended to communicate? I primarily conduct research on English and Paraguayan Guaraní, a Tupí-Guaraní language spoken in Paraguay. Find out more about [my research](https://judith-tonhauser.github.io/research/) or check out [my publications](https://judith-tonhauser.github.io/publications/).
 
