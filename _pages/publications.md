@@ -11,7 +11,7 @@ Please contact me for copies of papers not accessible to you.
 
 ### Under review
 
-1. Which predicates are factive? An empirical investigation. <b> Judith Tonhauser </b> and Judith Degen. Under revision. [(initial submission)](https://ling.auf.net/lingbuzz/005360)
+1. Are there factive predicates? An empirical investigation. <b> Judith Tonhauser </b> and Judith Degen. Under re-review. [(initial submission)](https://ling.auf.net/lingbuzz/005360)
 
 ### Peer-reviewed journal publications
 
@@ -49,13 +49,12 @@ markers. 2007. <b> Judith Tonhauser</b>, <i> Language</i>  83:831-869. [(doi)](h
 
 ### Invited, editor-reviewed journal papers
 
-
-1. Cross-linguistic temporal reference. 2015. <b> Judith
-Tonhauser</b>, <i> Annual Review of
-Linguistics</i>  1:129-154.  [(doi)](http://www.annualreviews.org/doi/full/10.1146/annurev-linguistics-011516-033952)
 1. Questions Under Discussion: Where information structure meets
 projective content. 2017. David Beaver, Craige Roberts, Mandy Simons and <b> Judith  Tonhauser</b>, <i> Annual Review of
 Linguistics</i>  3:265-284.  [(doi)](http://arjournals.annualreviews.org/eprint/GIkPgHbnJyyETimgrMzy/full/10.1146/annurev-linguist-030514-124923)
+1. Cross-linguistic temporal reference. 2015. <b> Judith
+Tonhauser</b>, <i> Annual Review of
+Linguistics</i>  1:129-154.  [(doi)](http://www.annualreviews.org/doi/full/10.1146/annurev-linguistics-011516-033952)
 1. Defining cross-linguistic categories: The case of nominal
 tense. 2008. Reply to Nordlinger and Sadler (2008). <b> Judith Tonhauser</b>, <i> 
   Language</i>  84:332-342. [(doi)](http://dx.doi.org/doi:10.1353/lan.0.0017)

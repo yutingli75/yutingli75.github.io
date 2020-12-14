@@ -16,7 +16,7 @@ Please contact me for a full CV.
 * since 2020: Professor and Chair, Department of English Linguistics, University of Stuttgart
 * 2019-2020: Professor, Department of Linguistics, The Ohio State University
 * 2018-2020: Visiting Professor and Chair, Department of English Linguistics, University of Stuttgart
-* 2015-2016: Fellow, Zentrum für Allgemeine Sprachwissenschaft, Berlin, Germany
+* 2014-2015: Fellow, Zentrum für Allgemeine Sprachwissenschaft, Berlin, Germany
 * 2013-2014: Fellow, Center for Advanced Study in the Behavioral Sciences, Stanford University
 * 2012-2019: Associate Professor, Department of Linguistics, The Ohio State University
 * 2006-2012: Assistant Professor, Department of Linguistics, The Ohio State University
