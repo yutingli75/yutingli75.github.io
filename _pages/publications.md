@@ -11,7 +11,7 @@ Please contact me for copies of papers not accessible to you.
 
 ### Under review
 
-1. Prior probability modulates projection. Judith Degen and <b> Judith Tonhauser </b>. Under review. [(manuscript)](https://psyarxiv.com/9akwn)
+1. Prior beliefs modulates projection. Judith Degen and <b> Judith Tonhauser</b>. Under review. [(manuscript)](https://psyarxiv.com/9akwn)
 
 1. Are there factive predicates? An empirical investigation. <b> Judith Tonhauser </b> and Judith Degen. Under re-review. [(manuscript)](https://ling.auf.net/lingbuzz/005360)
 
