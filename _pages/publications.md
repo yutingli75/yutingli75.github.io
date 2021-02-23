@@ -64,7 +64,7 @@ tense. 2008. Reply to Nordlinger and Sadler (2008). <b> Judith Tonhauser</b>, <i
 
 ### Book chapters
 
-1.  [Managing web-experiments for psycholinguistics: An example from experimental semantics/pragmatics.](http://alpslab.stanford.edu//papers/2020\_DegenTonhauser-submitted.pdf) In press. Judith Degen and <b> Judith Tonhauser</b>, in Berez-Kroeker, A. L. and B. McDonnell and E. Koller (eds.) Open Handbook of Linguistic Data Management, Cambridge, MA: MIT Press Open. [preprint](http://alpslab.stanford.edu//papers/2020_DegenTonhauser-submitted.pdf)
+1.  [Managing web-experiments for psycholinguistics: An example from experimental semantics/pragmatics.](http://alpslab.stanford.edu//papers/2020\_DegenTonhauser-submitted.pdf) In press. Judith Degen and <b> Judith Tonhauser</b>, in Berez-Kroeker, A. L. and B. McDonnell and E. Koller (eds.) Open Handbook of Linguistic Data Management, Cambridge, MA: MIT Press Open. [preprint](http://alpslab.stanford.edu//papers/2020\_DegenTonhauser-submitted.pdf)
 1.  Temporal properties of noun phrases. 2021. <b> Judith Tonhauser</b>,
 in Gutzmann, D., Matthewson, L., C. Meier, H. Rullmann and T. E. Zimmermann (eds.) <i> Companion to Semantics</i>, New York: Wiley Blackwell. [preprint](http://judith-tonhauser.github.io/files/tonhauser-temporal-NPs.pdf)
 1.  Prosody and meaning: On the production, perception and interpretation of prosodically marked focus. 2019. <b> Judith Tonhauser</b>, in Cummins, C. and N. Katsos (eds.) <i> Handbook of Experimental Semantics and Pragmatics</i>, Oxford: Oxford University Press, pp.494-511.  [preprint](http://judith-tonhauser.github.io/files/tonhauser-prosody-meaning.pdf)
