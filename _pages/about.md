@@ -14,7 +14,7 @@ My research interests lie in the area of natural language meaning, including bot
 
 At the University of Stuttgart, I teach [courses](https://judith-tonhauser.github.io/teaching/) related to my research interests: introductions to semantics/pragmatics, sociolinguistics and psycholinguistics, as well as advanced courses in semantics and pragmatics and on social meaning. I also [advise theses](https://judith-tonhauser.github.io/teaching/) in these areas. Information about my office hours can be found on my [department webpage](https://www.ling.uni-stuttgart.de/institut/team/Tonhauser/).
 
-Here's some more information about how I contribute to the University of Stuttgart:
+I also contribute to the University of Stuttgart in the following capacities:
 * Committee member, [Verantwortung in der Forschung (Ethikkommission)](https://www.beschaeftigte.uni-stuttgart.de/forschung/beratung-und-abwicklung/kommission-verantwortung-in-der-forschung/) 
 * Mentor, [AdvanceScience for Postdoctoral Fellow](https://www.gradus.uni-stuttgart.de/mentoring/)
 * Mentor, [LiveScience for Juniorprofessors](https://www.gradus.uni-stuttgart.de/mentoring/)
