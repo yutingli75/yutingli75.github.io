@@ -109,7 +109,7 @@ Publications, pp.189-204.
 1. [Contrastive topics in Paraguayan Guaraní discourse](http://judith-tonhauser.github.io/files/tonhauser-salt22.pdf). 2012.
 <b> Judith Tonhauser</b>, <i> Semantics and Linguistic Theory 22</i> ,
 Ithaca, NY: CLC Publications, pp.268-285. 
-1. [Diagnosing (not-)at-issue content](http://judith-tonhauser.github.io/files/tonhauser-SULA6.pdf). 2012. <b> Judith Tonhauser</b>, <i> 
+1. [Diagnosing (not-)at-issue content](http://judith-tonhauser.github.io/files/tonhauser2012-published.pdf). 2012. <b> Judith Tonhauser</b>, <i> 
   Semantics of Under-represented Languages of the Americas 6</i>,
 Amherst, MA: GLSA Publications, pp.239-254. 
 1. [What projects and why?](http://judith-tonhauser.github.io/files/simons-etal-2010.pdf). 2011. [Mandy Simons, <b> Judith Tonhauser</b>,
