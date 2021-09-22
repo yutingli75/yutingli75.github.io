@@ -15,7 +15,7 @@ Please contact me for copies of papers not accessible to you.
 
 ### Peer-reviewed journal publications
 
-1. Prior beliefs modulates projection. Judith Degen and <b> Judith Tonhauser</b>. 2021. <i>Open Mind</i>5: 59–70. [(open access)](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00042/106927/Prior-Beliefs-Modulate-Projection)
+1. Prior beliefs modulates projection. Judith Degen and <b> Judith Tonhauser</b>. 2021. <i>Open Mind</i> 5: 59–70. [(open access)](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00042/106927/Prior-Beliefs-Modulate-Projection)
 1. Evaluative adjective sentences: A question-based analysis of projection. 2020. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen, <i> Glossa: a journal of general linguistics</i> 5(1): 87. 1–33.   [(doi)](https://doi.org/10.5334/gjgl.701)
 1.  Projection variability in Paraguayan Guaraní. 2020. <b> Judith Tonhauser</b>, <i> Natural Language and Linguistic Theory</i> 38:1263-1302.  [preprint](http://judith-tonhauser.github.io/files/tonhauser-NLLT-preprint.pdf)
 1. How projective is projective content? Gradience in projectivity and at-issueness. 2018. <b> Judith Tonhauser</b>, David Beaver and Judith Degen, <i> Journal of Semantics</i> 35:495-542. [(doi)](https://doi.org/10.1093/jos/ffy007)
