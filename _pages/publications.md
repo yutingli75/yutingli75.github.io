@@ -11,8 +11,8 @@ Please contact me for copies of papers not accessible to you.
 
 ### Under review
 
-1. The interpretation of implicit arguments in Paraguayan Guaraní. 
-1. Are there factive predicates? An empirical investigation. Judith Degen and <b> Judith Tonhauser </b>. Under re-review. [(manuscript)](https://ling.auf.net/lingbuzz/005360)
+1. The interpretation of implicit arguments in Paraguayan Guaraní. [(manuscript)](http://judith-tonhauser.github.io/files/tonhauser-interpretation-implicit-args.pdf)
+1. Are there factive predicates? An empirical investigation. Judith Degen and <b> Judith Tonhauser</b>. [(manuscript)](https://ling.auf.net/lingbuzz/005360)
 
 ### Peer-reviewed journal publications
 
