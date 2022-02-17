@@ -11,6 +11,13 @@ Go here for publications by [year](https://judith-tonhauser.github.io/pubs-by-ye
 
 Please contact me for copies of papers not accessible to you.
 
+Topics:
+- Projective content
+- Paraguayan Guaraní
+- Information structure and prosody
+- Temporal, aspectual, and modal interpretation
+- Misc.
+
 ### Projective content
 
 1. Are there factive predicates? An empirical investigation. Judith Degen and <b> Judith Tonhauser</b>. Accepted  at <i>Language</i>. [(preprint, ](http://judith-tonhauser.github.io/files/factives-paper-preprint.pdf)[supplements)](http://judith-tonhauser.github.io/files/factives-paper-supplements.pdf)
