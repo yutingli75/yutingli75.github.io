@@ -7,7 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
-Publications by [topic](https://judith-tonhauser.github.io/pubs-by-topic/).
+Go here for publications by [topic](https://judith-tonhauser.github.io/pubs-by-topic/).
 
 Please contact me for copies of papers not accessible to you.
 
@@ -124,7 +124,7 @@ Tübingen: Niemeyer, pp.207-231.  [preprint](http://judith-tonhauser.github.io/f
 clauses. 2011. Yusuke Kubota, Jungmee Lee, Anastasia Smirnova and <b> Judith
 Tonhauser</b>, in Nishida, C. and C. Russi (eds.)  <i> Cahier Chronos: Selected Proceedings of
   Chronos 8</i>, Amsterdam/Atlanta: Rodopi, pp.135-155. [preprint](http://judith-tonhauser.github.io/files/kubota-etal-Chronos.pdf)
-1. [What projects and why?](http://judith-tonhauser.github.io/files/simons-etal-2010.pdf). 2011. [Mandy Simons, <b> Judith Tonhauser</b>,
+1. [What projects and why?](http://judith-tonhauser.github.io/files/simons-etal-2010.pdf). 2011. Mandy Simons, <b> Judith Tonhauser</b>,
 David Beaver and Craige Roberts, <i> Semantics and Linguistic Theory
   20</i>, Ithaca, NY: CLC Publications, pp.309-327.
 1. [On the prosodic coding of focus in Paraguayan Guaraní](http://judith-tonhauser.github.io/files/WCCFL-Clopper-Tonhauser2.pdf). 2011. Cynthia

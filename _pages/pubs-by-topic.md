@@ -7,7 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
-Publications by [year](https://judith-tonhauser.github.io/pubs-by-year/).
+Go here for publications by [year](https://judith-tonhauser.github.io/pubs-by-year/).
 
 Please contact me for copies of papers not accessible to you.
 
@@ -51,7 +51,7 @@ David Beaver, Craige Roberts and Mandy Simons, <i> Language</i>  89:66-109. [(do
   Semantics of Under-represented Languages of the Americas 6</i>,
 Amherst, MA: GLSA Publications, pp.239-254.
 
-1. [What projects and why?](http://judith-tonhauser.github.io/files/simons-etal-2010.pdf). 2011. [Mandy Simons, <b> Judith Tonhauser</b>,
+1. [What projects and why?](http://judith-tonhauser.github.io/files/simons-etal-2010.pdf). 2011. Mandy Simons, <b> Judith Tonhauser</b>,
 David Beaver and Craige Roberts, <i> Semantics and Linguistic Theory
   20</i>, Ithaca, NY: CLC Publications, pp.309-327. 
 
