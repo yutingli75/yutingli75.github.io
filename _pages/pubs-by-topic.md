@@ -1,6 +1,6 @@
 ---
-permalink: /pubs-by-year/
-title: "Publications by year"
+permalink: /pubs-by-topic/
+title: "Publications by topic"
 author_profile: true
 redirect_from: 
   - /md/
@@ -62,7 +62,7 @@ Beaver and <b> Judith Tonhauser</b>, in Klinedinst, N. & D. Rothschild (eds.) <i
   
 ### Paraguayan Guaraní
 
-1. The interpretation of implicit arguments in Paraguayan Guaraní.  <b> Judith Tonhauser</b>. [(manuscript)](http://judith-tonhauser.github.io/files/tonhauser-interpretation-implicit-args.pdf)
+1. The interpretation of implicit arguments in Paraguayan Guaraní.  <b> Judith Tonhauser</b>. Accepted at <i>Languages</i>, special issue edited by Bruno Estigarribia on Guaraní linguistics. [(preprint)](http://judith-tonhauser.github.io/files/tonhauser-interpretation-implicit-args.pdf)
 
 1.  Projection variability in Paraguayan Guaraní. 2020. <b> Judith Tonhauser</b>, <i> Natural Language and Linguistic Theory</i> 38:1263-1302.  [preprint](http://judith-tonhauser.github.io/files/tonhauser-NLLT-preprint.pdf)
 

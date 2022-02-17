@@ -13,7 +13,7 @@ Please contact me for copies of papers not accessible to you.
 
 ### In the pipeline
 
-1. The interpretation of implicit arguments in Paraguayan Guaraní.  <b> Judith Tonhauser</b>. [(manuscript)](http://judith-tonhauser.github.io/files/tonhauser-interpretation-implicit-args.pdf)
+1. The interpretation of implicit arguments in Paraguayan Guaraní.  <b> Judith Tonhauser</b>. Accepted at <i>Languages</i>, special issue edited by Bruno Estigarribia on Guaraní linguistics. [(preprint)](http://judith-tonhauser.github.io/files/tonhauser-interpretation-implicit-args.pdf)
 
 1. Are there factive predicates? An empirical investigation. Judith Degen and <b> Judith Tonhauser</b>. Accepted with minor revisions at <i>Language</i>. [(preprint, ](http://judith-tonhauser.github.io/files/factives-paper-preprint.pdf)[supplements)](http://judith-tonhauser.github.io/files/factives-paper-supplements.pdf)
 
