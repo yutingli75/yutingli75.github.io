@@ -13,11 +13,12 @@ Please contact me for copies of papers not accessible to you.
 
 ### In the pipeline
 
-1. The interpretation of implicit arguments in Paraguayan Guaraní.  <b> Judith Tonhauser</b>. Accepted at <i>Languages</i>, special issue edited by Bruno Estigarribia on Guaraní linguistics. [(preprint)](http://judith-tonhauser.github.io/files/tonhauser-interpretation-implicit-args.pdf)
-
 1. Are there factive predicates? An empirical investigation. Judith Degen and <b> Judith Tonhauser</b>. Accepted at <i>Language</i>. [(preprint, ](http://judith-tonhauser.github.io/files/factives-paper-preprint.pdf)[supplements)](http://judith-tonhauser.github.io/files/factives-paper-supplements.pdf)
 
 ### 2022
+
+1. The interpretation of implicit arguments in Paraguayan Guaraní.  <b> Judith Tonhauser</b>. <i>Languages</i> 7: 83, special issue edited by Bruno Estigarribia on Guaraní linguistics. [(link to paper)](https://doi.org/10.3390/languages7020083)
+
 
 1.  [Managing web-experiments for psycholinguistics: An example from experimental semantics/pragmatics.](https://direct.mit.edu/books/book/5244/chapter/3537415/Managing-Web-Experiments-for-Psycholinguistics-An) 2022. Judith Degen and <b> Judith Tonhauser</b>, in Berez-Kroeker, A. L. and B. McDonnell and E. Koller (eds.) Open Handbook of Linguistic Data Management, Cambridge, MA: MIT Press Open. pp.539-646.
 
