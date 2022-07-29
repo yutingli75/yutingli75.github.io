@@ -30,7 +30,7 @@ Field: Advances in Cross-Linguistic Psycholinguistics</i>.  [(doi)](http://www.t
 1. Variation in the prosody of focus in head- and head/edge-prominence languages. 2015. Rachel Burdin, Sara Phillips-Bourass, Rory Turnbull, Murat Yasavul, Cynthia G. Clopper and <b> Judith Tonhauser</b>, <i> Lingua</i>  165:254-276; special issue on <i> Prosody and Information Structure in Typological Perspective</i>. [(doi)](http://dx.doi.org/10.1016/j.lingua.2014.10.001)
 1. Are 'informative presuppositions' presuppositions? 2015. <b> Judith Tonhauser</b>, <i> Language and Linguistics Compass</i>  9:77-101  [(doi)](http://onlinelibrary.wiley.com/doi/10.1111/lnc3.12119/abstract)
 1. Toward a taxonomy of projective content. 2013. <b> Judith Tonhauser</b>,
-David Beaver, Craige Roberts and Mandy Simons, <i> Language</i>  89:66-109. [(doi)](https://muse.jhu.edu/article/503025), [Best Paper in Language 2013](https://www.linguisticsociety.org/news/2013/12/04/best-paper-language-award-announced-2013)
+David Beaver, Craige Roberts and Mandy Simons, <i> Language</i>  89:66-109. [(pdf)](https://www.jstor.org/stable/23357722), [Best Paper in Language 2013](https://www.linguisticsociety.org/news/2013/12/04/best-paper-language-award-announced-2013)
 1. The prosody of focus in Paraguayan Guaraní. 2013. Cynthia
 G. Clopper and <b> Judith Tonhauser</b>, <i> International
   Journal of American Linguistics</i>  79:219-251.  [(doi)](http://dx.doi.org/doi:10.1086/669629)
