@@ -52,7 +52,7 @@ Ithaca, LSA and CLC Publications, pp.934-960.
 1. Are 'informative presuppositions' presuppositions? 2015. <b> Judith Tonhauser</b>, <i> Language and Linguistics Compass</i>  9:77-101  [(doi)](http://onlinelibrary.wiley.com/doi/10.1111/lnc3.12119/abstract)
 
 1. Toward a taxonomy of projective content. 2013. <b> Judith Tonhauser</b>,
-David Beaver, Craige Roberts and Mandy Simons, <i> Language</i>  89:66-109. [(doi)](https://muse.jhu.edu/article/503025), [Best Paper in Language 2013](https://www.linguisticsociety.org/news/2013/12/04/best-paper-language-award-announced-2013)
+David Beaver, Craige Roberts and Mandy Simons, <i> Language</i>  89:66-109. [(doi)](http://judith-tonhauser.github.io/files/Tonhauser-etal-2013-Language.pdf), [Best Paper in Language 2013](https://www.linguisticsociety.org/news/2013/12/04/best-paper-language-award-announced-2013)
 
 1. [Diagnosing (not-)at-issue content](http://judith-tonhauser.github.io/files/tonhauser2012-published.pdf). 2012. <b> Judith Tonhauser</b>, <i> 
   Semantics of Under-represented Languages of the Americas 6</i>,
