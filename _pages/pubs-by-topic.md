@@ -20,7 +20,7 @@ Topics:
 
 ### Projective content
 
-1. Are there factive predicates? An empirical investigation. Judith Degen and <b> Judith Tonhauser</b>. Accepted  at <i>Language</i>. [(preprint, ](http://judith-tonhauser.github.io/files/factives-paper-preprint.pdf)[supplements)](http://judith-tonhauser.github.io/files/factives-paper-supplements.pdf)
+1. Are there factive predicates? An empirical investigation. Judith Degen and <b> Judith Tonhauser</b>. <i>Language</i> 98:3. [(preprint, ](http://judith-tonhauser.github.io/files/factives-paper-preprint.pdf)[supplements)](http://judith-tonhauser.github.io/files/factives-paper-supplements.pdf)
 
 1. Prior beliefs modulate projection. Judith Degen and <b> Judith Tonhauser</b>. 2021. <i>Open Mind</i> 5: 59–70. [(open access)](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00042/106927/Prior-Beliefs-Modulate-Projection)
 
