@@ -13,9 +13,9 @@ Please contact me for copies of papers not accessible to you.
 
 ### In the pipeline
 
-1. On the social meaning of verbal irony: A case study of Kurt Tucholsky’s Ratschläge für einen schlechten Redner. Carlotta Quensel, Sandra Richter, and <b> Judith Tonhauser</b>. Under review. [(preprint, https://ling.auf.net/lingbuzz/006771?_s=8b_W5gGDogDjSX0w&_k=PEKQuodYi4lgtJeo)
+1. On the social meaning of verbal irony: A case study of Kurt Tucholsky’s Ratschläge für einen schlechten Redner. Carlotta Quensel, Sandra Richter, and <b> Judith Tonhauser</b>. Under review. 
 
-1. Prior beliefs and at-issueness independently modulate projection. <b> Judith Tonhauser</b> and Judith Degen. Under review.
+1. Prior beliefs and at-issueness independently modulate projection. <b> Judith Tonhauser</b> and Judith Degen. Under review. [manuscript](https://ling.auf.net/lingbuzz/006771?_s=8b_W5gGDogDjSX0w&_k=PEKQuodYi4lgtJeo)
 
 
 ### 2022
