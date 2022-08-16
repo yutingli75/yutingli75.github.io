@@ -7,8 +7,6 @@ redirect_from:
   - /publications.html
 ---
 
-Go here for publications by [topic](https://judith-tonhauser.github.io/pubs-by-topic/).
-
 Please contact me for copies of papers not accessible to you.
 
 ### In the pipeline
