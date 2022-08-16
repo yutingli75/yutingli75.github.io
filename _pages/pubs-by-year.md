@@ -20,56 +20,66 @@ Please contact me for copies of papers not accessible to you.
 
 ### 2022
 
-1. German clefts address unexpected questions. Swantje Tönnis and <b> Judith Tonhauser</b>. <i>Semantics and Linguistic Theory 32</i> [preprint](https://github.com/swantje-toennis/expectations_cleft/blob/main/writing/salt-paper_submission1.pdf)
+1. German clefts address unexpected questions. Swantje Tönnis and <b> Judith Tonhauser</b>. 2022. <i>Semantics and Linguistic Theory 32</i> [preprint](https://github.com/swantje-toennis/expectations_cleft/blob/main/writing/salt-paper_submission1.pdf)
 
-1. Are there factive predicates? An empirical investigation. Judith Degen and <b> Judith Tonhauser</b>. <i>Language</i> 98:3. [(preprint, ](http://judith-tonhauser.github.io/files/factives-paper-preprint.pdf)[supplements)](http://judith-tonhauser.github.io/files/factives-paper-supplements.pdf)
+1. Are there factive predicates? An empirical investigation. Judith Degen and <b> Judith Tonhauser</b>. 2022. <i>Language</i> 98:3. [(preprint, ](http://judith-tonhauser.github.io/files/factives-paper-preprint.pdf)[supplements)](http://judith-tonhauser.github.io/files/factives-paper-supplements.pdf)
 
-1. The interpretation of implicit arguments in Paraguayan Guaraní.  <b> Judith Tonhauser</b>. <i>Languages</i> 7:83, special issue edited by Bruno Estigarribia on Guaraní linguistics. [(link to paper)](https://doi.org/10.3390/languages7020083)
+1. The interpretation of implicit arguments in Paraguayan Guaraní.  <b> Judith Tonhauser</b>. 2022. <i>Languages</i> 7:83, special issue edited by Bruno Estigarribia on Guaraní linguistics. [(link to paper)](https://doi.org/10.3390/languages7020083)
 
 
-1.  [Managing web-experiments for psycholinguistics: An example from experimental semantics/pragmatics.](https://direct.mit.edu/books/book/5244/chapter/3537415/Managing-Web-Experiments-for-Psycholinguistics-An) 2022. Judith Degen and <b> Judith Tonhauser</b>, in Berez-Kroeker, A. L. and B. McDonnell and E. Koller (eds.) Open Handbook of Linguistic Data Management, Cambridge, MA: MIT Press Open. pp.539-646.
+1.  Managing web-experiments for psycholinguistics: An example from experimental semantics/pragmatics. 2022. Judith Degen and <b> Judith Tonhauser</b>, in Berez-Kroeker, A. L. and B. McDonnell and E. Koller (eds.) Open Handbook of Linguistic Data Management, Cambridge, MA: MIT Press Open. pp.539-646. [(link to paper)](https://direct.mit.edu/books/book/5244/chapter/3537415/Managing-Web-Experiments-for-Psycholinguistics-An)
 
 ### 2021
 
 
-1. Prior beliefs modulate projection. Judith Degen and <b> Judith Tonhauser</b>. 2021. <i>Open Mind</i> 5: 59–70. [(open access)](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00042/106927/Prior-Beliefs-Modulate-Projection)
+1. Prior beliefs modulate projection. Judith Degen and <b> Judith Tonhauser</b>. 2021. <i>Open Mind</i> 5: 59–70. [(link to paper)](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00042/106927/Prior-Beliefs-Modulate-Projection)
+
 1.  Temporal properties of noun phrases. 2021. <b> Judith Tonhauser</b>,
-in Gutzmann, D., Matthewson, L., C. Meier, H. Rullmann and T. E. Zimmermann (eds.) <i> Companion to Semantics</i>, New York: Wiley Blackwell. [preprint](http://judith-tonhauser.github.io/files/tonhauser-temporal-NPs.pdf)
+in Gutzmann, D., Matthewson, L., C. Meier, H. Rullmann and T. E. Zimmermann (eds.) <i> Companion to Semantics</i>, New York: Wiley Blackwell. [(preprint)](http://judith-tonhauser.github.io/files/tonhauser-temporal-NPs.pdf)
 
 ### 2020
 
-1. Evaluative adjective sentences: A question-based analysis of projection. 2020. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen, <i> Glossa: a journal of general linguistics</i> 5(1): 87. 1–33.   [(doi)](https://doi.org/10.5334/gjgl.701)
-1.  Projection variability in Paraguayan Guaraní. 2020. <b> Judith Tonhauser</b>, <i> Natural Language and Linguistic Theory</i> 38:1263-1302.  [preprint](http://judith-tonhauser.github.io/files/tonhauser-NLLT-preprint.pdf)
+1. Evaluative adjective sentences: A question-based analysis of projection. 2020. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe and Judith Degen, <i> Glossa: a journal of general linguistics</i> 5(1): 87. 1–33.   [(link to paper)](https://doi.org/10.5334/gjgl.701)
+
+1.  Projection variability in Paraguayan Guaraní. 2020. <b> Judith Tonhauser</b>, <i> Natural Language and Linguistic Theory</i> 38:1263-1302.  [(preprint)](http://judith-tonhauser.github.io/files/tonhauser-NLLT-preprint.pdf)
 
 ### 2019
 
-1.  Prosody and meaning: On the production, perception and interpretation of prosodically marked focus. 2019. <b> Judith Tonhauser</b>, in Cummins, C. and N. Katsos (eds.) <i> Handbook of Experimental Semantics and Pragmatics</i>, Oxford: Oxford University Press, pp.494-511.  [preprint](http://judith-tonhauser.github.io/files/tonhauser-prosody-meaning.pdf)
+1.  Prosody and meaning: On the production, perception and interpretation of prosodically marked focus. 2019. <b> Judith Tonhauser</b>, in Cummins, C. and N. Katsos (eds.) <i> Handbook of Experimental Semantics and Pragmatics</i>, Oxford: Oxford University Press, pp.494-511.  [(preprint)](http://judith-tonhauser.github.io/files/tonhauser-prosody-meaning.pdf)
+
 1.  Inferring meaning from indirect answers to polar questions: 
-The contribution of the rise-fall-rise contour. 2019. Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>, in Onea, E., M. Zimmermann, and K. von Heusinger (eds.) <i> Questions in Discourse</i>, Leiden: Brill Publishing, pp.132-163. [preprint](http://judith-tonhauser.github.io/files/demarneffe-tonhauser-2019-published.pdf)
-1. [On the prosody of presupposition projection: A production experiment](http://judith-tonhauser.github.io/files/Vaiksnoraite-etal2019.pdf). 2019. Elena Vaiksnoraite, Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>. <i> North East Linguistic Society</i>  49, pp.241-254. 
-1. [On the information structure sensitivity of projective content](http://judith-tonhauser.github.io/files/tonhauser-etal-SuB-2019.pdf). 2019. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe, Shari R. Speer and Jon Stevens, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.923-949.
-1. [The CommitmentBank: Investigating projection in naturally occurring discourse](http://judith-tonhauser.github.io/files/deMarneffe-etal-SuB2019.pdf). 2019. Marie-Catherine de Marneffe, Mandy Simons and <b> Judith Tonhauser</b>, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.663-680.
+The contribution of the rise-fall-rise contour. 2019. Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>, in Onea, E., M. Zimmermann, and K. von Heusinger (eds.) <i> Questions in Discourse</i>, Leiden: Brill Publishing, pp.132-163. [(preprint)](http://judith-tonhauser.github.io/files/demarneffe-tonhauser-2019-published.pdf)
+
+1. On the prosody of presupposition projection: A production experiment. 2019. Elena Vaiksnoraite, Marie-Catherine de Marneffe and <b> Judith Tonhauser</b>. <i> North East Linguistic Society</i>  49, pp.241-254. [(pdf)](http://judith-tonhauser.github.io/files/Vaiksnoraite-etal2019.pdf)
+
+1. On the information structure sensitivity of projective content. 2019. <b> Judith Tonhauser</b>, Marie-Catherine de Marneffe, Shari R. Speer and Jon Stevens, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.923-949. [(pdf)](http://judith-tonhauser.github.io/files/tonhauser-etal-SuB-2019.pdf)
+
+1. The CommitmentBank: Investigating projection in naturally occurring discourse. 2019. Marie-Catherine de Marneffe, Mandy Simons and <b> Judith Tonhauser</b>, <i> Sinn und Bedeutung 23</i>, Universitat Autónoma de Barcelona, pp.663-680. [(pdf)](http://judith-tonhauser.github.io/files/deMarneffe-etal-SuB2019.pdf)
 
 ### 2018
 
-1. How projective is projective content? Gradience in projectivity and at-issueness. 2018. <b> Judith Tonhauser</b>, David Beaver and Judith Degen, <i> Journal of Semantics</i> 35:495-542. [(doi)](https://doi.org/10.1093/jos/ffy007)
+1. How projective is projective content? Gradience in projectivity and at-issueness. 2018. <b> Judith Tonhauser</b>, David Beaver and Judith Degen, <i> Journal of Semantics</i> 35:495-542. [(link to paper)](https://doi.org/10.1093/jos/ffy007)
 
 ### 2017
 
 1. The Best Question: Explaining the projection behavior of
 factive verbs. 2017. Mandy Simons, David Beaver, Craige Roberts and <b> Judith  Tonhauser</b>, <i> Discourse Processes</i>  54:187-206. [(doi)](http://www.tandfonline.com/doi/abs/10.1080/0163853X.2016.1150660)
+
 1. Questions Under Discussion: Where information structure meets
 projective content. 2017. David Beaver, Craige Roberts, Mandy Simons and <b> Judith  Tonhauser</b>, <i> Annual Review of
-Linguistics</i>  3:265-284.  [(doi)](http://arjournals.annualreviews.org/eprint/GIkPgHbnJyyETimgrMzy/full/10.1146/annurev-linguist-030514-124923)
+Linguistics</i>  3:265-284.  [(link to paper)](http://arjournals.annualreviews.org/eprint/GIkPgHbnJyyETimgrMzy/full/10.1146/annurev-linguist-030514-124923)
+
 1.  The distribution of implicit arguments in Paraguayan Guaraní. 2017. <b> Judith
 Tonhauser</b>, in Estigarribia, B. and J. Pinta (eds.) <i> Guaraní Linguistics in
-the 21st Century</i>, Leiden: Brill Publishing, pp.194-230. [preprint](http://judith-tonhauser.github.io/files/tonhauser-implicit-arguments.pdf)
-1. [Predicting projection from rational use of prosody](http://judith-tonhauser.github.io/files/Stevens-etal-2017.pdf). 2017. Jon Stevens, Marie-Catherine de Marneffe, Shari R. Speer and <b> Judith Tonhauser</b>, <i> Annual Conference of the Cognitive Science Society</i>, pp.1144-1149. 
+the 21st Century</i>, Leiden: Brill Publishing, pp.194-230. [(preprint)](http://judith-tonhauser.github.io/files/tonhauser-implicit-arguments.pdf)
+
+1. Predicting projection from rational use of prosody. 2017. Jon Stevens, Marie-Catherine de Marneffe, Shari R. Speer and <b> Judith Tonhauser</b>, <i> Annual Conference of the Cognitive Science Society</i>, pp.1144-1149. [(pdf)](http://judith-tonhauser.github.io/files/Stevens-etal-2017.pdf)
 
 ### 2016
-1. [Prosodic cues to presupposition projection](http://judith-tonhauser.github.io/files/tonhauser-salt26.pdf). 2016.
+
+1. Prosodic cues to presupposition projection. 2016.
 <b> Judith Tonhauser</b>, <i> Semantics and Linguistic Theory 26</i>,
-Ithaca, LSA and CLC Publications, pp.934-960. 
+Ithaca, LSA and CLC Publications, pp.934-960. [(pdf)](http://judith-tonhauser.github.io/files/tonhauser-salt26.pdf)
 
 ### 2015
 
@@ -78,11 +88,15 @@ cross-linguistic comparison. 2015. Rory Turnbull, Rachel Burdin, Cynthia G.
 Clopper and <b> Judith Tonhauser</b>, <i> Language, Cognition and
 Neuroscience</i>  30:1061-1076; special issue on <i> Laboratory in the
 Field: Advances in Cross-Linguistic Psycholinguistics</i>.  [(doi)](http://www.tandfonline.com/doi/abs/10.1080/23273798.2015.1071856?journalCode=plcp21)
+
 1. Variation in the prosody of focus in head- and head/edge-prominence languages. 2015. Rachel Burdin, Sara Phillips-Bourass, Rory Turnbull, Murat Yasavul, Cynthia G. Clopper and <b> Judith Tonhauser</b>, <i> Lingua</i>  165:254-276; special issue on <i> Prosody and Information Structure in Typological Perspective</i>. [(doi)](http://dx.doi.org/10.1016/j.lingua.2014.10.001)
+
 1. Are 'informative presuppositions' presuppositions? 2015. <b> Judith Tonhauser</b>, <i> Language and Linguistics Compass</i>  9:77-101  [(doi)](http://onlinelibrary.wiley.com/doi/10.1111/lnc3.12119/abstract)
+
 1. Cross-linguistic temporal reference. 2015. <b> Judith
 Tonhauser</b>, <i> Annual Review of
 Linguistics</i>  1:129-154.  [(doi)](http://www.annualreviews.org/doi/full/10.1146/annurev-linguistics-011516-033952)
+
 1.  Exploring meaning in the field: Temporal and aspectual
 reference. 2015. Rebecca Cover and <b> Judith Tonhauser</b>, in Bochnak, R. and
 L. Matthewson (eds.) <i> Methodologies in Semantic Fieldwork</i>, Oxford:
