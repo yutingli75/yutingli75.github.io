@@ -20,7 +20,7 @@ Please contact me for copies of papers not accessible to you.
 
 ### 2022
 
-1. German clefts address unexpected questions. Swantje Tönnis and <b> Judith Tonhauser</b>. <i>Semantics and Linguistic Theory 32</i>
+1. German clefts address unexpected questions. Swantje Tönnis and <b> Judith Tonhauser</b>. <i>Semantics and Linguistic Theory 32</i> [preprint](https://github.com/swantje-toennis/expectations_cleft/blob/main/writing/salt-paper_submission1.pdf)
 
 1. Are there factive predicates? An empirical investigation. Judith Degen and <b> Judith Tonhauser</b>. <i>Language</i> 98:3. [(preprint, ](http://judith-tonhauser.github.io/files/factives-paper-preprint.pdf)[supplements)](http://judith-tonhauser.github.io/files/factives-paper-supplements.pdf)
 
