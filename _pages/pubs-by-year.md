@@ -16,7 +16,7 @@ Please contact me for copies of papers not accessible to you.
 
 ### 2022
 
-1. On the social meaning of verbal irony: A case study of Kurt Tucholsky’s Ratschläge für einen schlechten Redner. Carlotta Quensel, Sandra Richter, and <b> Judith Tonhauser</b>. <i>Philologie im Netz</i> 94. [(preprint, ](http://judith-tonhauser.github.io/files/quensel-etal2022.pdf)
+1. On the social meaning of verbal irony: A case study of Kurt Tucholsky’s Ratschläge für einen schlechten Redner. Carlotta Quensel, Sandra Richter, and <b> Judith Tonhauser</b>. <i>Philologie im Netz</i> 94. [(preprint) ](http://judith-tonhauser.github.io/files/quensel-etal2022.pdf)
 
 1. German clefts address unexpected questions. Swantje Tönnis and <b> Judith Tonhauser</b>. 2022. <i>Semantics and Linguistic Theory 32</i> [(preprint)](https://github.com/swantje-toennis/expectations_cleft/blob/main/writing/salt-paper_submission1.pdf)
 
