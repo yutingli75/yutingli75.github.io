@@ -13,10 +13,11 @@ This page provides information on my courses at the University of Stuttgart as w
 
 For course descriptions, please see our [KVV](https://www.ling.uni-stuttgart.de/institut/ifla/lehre/kvv/).
 
-* Language & Cognition: Introduction to psycholinguistics (winter term)
-* Language Variation: Introduction to sociolinguistics (summer term)
+* Semantic Theory (BA) (summer term)
+* Language & Cognition (BA): Introduction to psycholinguistics (winter term)
+* Language Variation (BA): Introduction to sociolinguistics (summer term)
 * Advanced Semantics (various topics, every term)
-* Colloquium: Semantics and pragmatics (every term)
+* Linguistic Competence (M.Ed. only): Semantics (every term)
 * Research colloquium in syntax, semantics and pragmatics (every term, joint with Prof. Dr. Daniel Hole)
 
 ### Bachelor and Master theses
