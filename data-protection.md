@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /data-projection/
+permalink: /data-protection/
 author_profile: true
 redirect_from: 
   - /data-protection.html
@@ -104,4 +104,8 @@ Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzer
 Hosting mit GitHub Pages
 
 Diese Webseite wird gehostet auf Servern der Github Inc., 88 Colin P Kelly Jr. Street, San Francisco, CA 94107, USA. GitHub kann beim Aufruf dieser Webseiten technische Informationen inklusive ihrer IP Adresse aufzeichnen. Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von GitHub unter https://help.github.com/articles/github-privacy-policy.
+
+Diese Datenschutzerklärung wurde erstellt mit dem Generator der Anwaltskanzlei Weiß &amp; Partner:
+
+<p><a href="https://www.generator-datenschutzerklärung.de" target="_blank" rel="noopener">Muster-Datenschutzerklärung</a> der <a href="https://www.bewertung-löschen24.de" rel="nofollow noopener" target="_blank">Anwaltskanzlei Weiß &amp; Partner</a></p>
 
