@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /data-protection/
+permalink: /data-projection/
 author_profile: true
 redirect_from: 
   - /data-protection.html
