@@ -11,8 +11,13 @@ Please contact me for copies of papers not accessible to you.
 
 ### In the pipeline
 
-1. Prior beliefs and at-issueness independently modulate projection. <b> Judith Tonhauser</b> and Judith Degen. Under review. [manuscript](https://ling.auf.net/lingbuzz/006771?_s=8b_W5gGDogDjSX0w&_k=PEKQuodYi4lgtJeo)
+1. I don’t know if projection is categorical. Did Mandelkern et al. 2020 discover that it is? Judith Degen and <b> Judith Tonhauser</b>. Under review. [manuscript](https://ling.auf.net/lingbuzz/007770)
 
+2. Projection inferences: On the relation between prior beliefs, at-issueness, and lexical meaning. Judith Degen and <b> Judith Tonhauser</b>. In preparation.
+
+### 2024
+
+1. Projection variability: Is the family of sentences really a family?. Lisa Hofmann, Marie-Catherine de Marneffe, and <b> Judith Tonhauser</b>. <i>Sinn und Bedeutung</i> 28. [(preprint) ](http://judith-tonhauser.github.io/files/hofmann-etal-SuB28.pdf)
 
 ### 2022
 
