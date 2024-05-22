@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Prof. Dr. Judith Tonhauser
+title                    : Dr. Yuting Li
 title_separator          : "-"
-name                     : &name Judith Tonhauser
+name                     : &name Yuting Li
 description              : &description "personal description"
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,13 +86,13 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : judith.png
+  avatar           : yuting_image.jpeg
   bio              : 
-  location         : Room 4.049 <br> Keplerstr.17 <br> 70174 Stuttgart
+  location         : <br> Clementi Ave.5 <br> 120325 Singapore
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=3tw8OEMAAAAJ&hl=en"
-  email            :  judith.tonhauser@ling.uni-stuttgart.de
+  googlescholar    : 
+  email            :  yutinglee0705@gmail.com
   researchgate     :  
   uri              :
   bitbucket        :
@@ -101,14 +101,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "judith-tonhauser"
+  github           : "yutingli75"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-6061-7120"
+  orcid            : " https://orcid.org/0009-0009-9218-6394"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
