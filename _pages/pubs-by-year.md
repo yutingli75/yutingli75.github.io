@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: /pubs-by-year/
 title: "Publications"
 author_profile: true
 redirect_from: 
