@@ -18,7 +18,7 @@ redirect_from:
 ### 2018
 
 1. Review on <i>Semantic for counting and measuring</i>. <b> Yuting Li </b>. 2018. Chinese Univer-
-sities Humanities and Social Sciences Information Network. [(open access)](https://www.sinoss.net/c/2018-05-29/556980.shtml) (in Chinese)
+sities Humanities and Social Sciences Information Network. (in Chinese)
 
 
 ### Conference Proceedings with peer-reviewed abstracts
