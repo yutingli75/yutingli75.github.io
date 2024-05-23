@@ -6,7 +6,7 @@ redirect_from:
   - /research.html
 ---
 
-My research lie in the interface of syntax/semantics/pragmatics using a mixture of cross-linguistic, theoretical, and empirical methods. My doctoral dissertation deals with locative inversion in Mandarin Chinese, with a particular focus on the question of 
+My research lies at the interface of syntax/semantics/pragmatics using a mixture of cross-linguistic, theoretical, and empirical methods. My doctoral dissertation deals with locative inversion in Mandarin Chinese, with a particular focus on the question of 
 
 - how to characterise the semantic relationship between locative inversion and the uninverted construction, 
 - what motivates the choice of locative inversion over its alternative construction, and 
