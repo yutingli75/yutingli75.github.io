@@ -8,9 +8,9 @@ redirect_from:
 
 My research lie in the interface of syntax/semantics/pragmatics using a blend of cross-linguistic, theoretical, and empirical methods. My doctoral dissertation concerns locative inversion in Mandarin Chinese, with a particular focus on the question of 
 
--(1) how to characterise the semantic relationship between locative inversion and the uninverted construction, 
--(2) what motivates the choice of locative inversion over its alternative construction, and 
--(3) what characterise the verbs found in locative inversion. 
+- how to characterise the semantic relationship between locative inversion and the uninverted construction, 
+- what motivates the choice of locative inversion over its alternative construction, and 
+- what characterise the verbs found in locative inversion. 
 
 I am also interested in
 
