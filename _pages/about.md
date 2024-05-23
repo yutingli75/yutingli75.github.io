@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full professor in the [Department of English Linguistics](https://www.ling.uni-stuttgart.de/institut/ifla/) at the University of Stuttgart. I also currently serve as the executive director of the [Institute of Linguistics](https://www.ling.uni-stuttgart.de/en/).
 
-My research interests lie in the area of natural language meaning, including both semantics and pragmatics: how does meaning arise from the complex expressions that speakers utter and how do listeners understand what speakers intended to communicate? I primarily conduct research on English and Paraguayan Guaraní, a Tupí-Guaraní language spoken in Paraguay. Find out more about [my research](https://judith-tonhauser.github.io/research/) or check out [my publications](https://judith-tonhauser.github.io/pubs-by-year/).
+My academic journey began in Hunan, China, where I studied Chinese, English, and general linguistics, and then continued in Berlin, Germany and Shanghai, China, where I shifted toward conducting empirical investigations and applying statistical techniques to language analysis. 
 
-At the University of Stuttgart, I teach [courses](https://judith-tonhauser.github.io/teaching/) related to my research interests: introductions to semantics/pragmatics, sociolinguistics and psycholinguistics, as well as advanced courses in semantics and pragmatics and on social meaning. I also [advise theses](https://judith-tonhauser.github.io/teaching/) in these areas. Information about my office hours can be found on my [department webpage](https://www.ling.uni-stuttgart.de/institut/team/Tonhauser/).
+I am driven by a desire to understand what determines or predicts a linguistic form that speakers tend to express within the context of linguistic variants, which are alternative ways of saying ‘the same’ thing. A case in point is the phenomenon of locative inversion, where the sentence <i>An old woman lives in the woods<i/> can be conveyed by the variant <i>In the woods lives an old woman<i/> which is semantically and/or functionally near equivalent. 
