@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ### Thesis
-- <i> Locative Inversion in Mandarin Chinese: an empirical study of argument alternations, Ph.D. </i>
-- <i> Adverbial Presupposition Triggers in Mandarin, M.A. </i>
+- <i> Locative Inversion in Mandarin Chinese: an empirical study of argument alternations</i>, Ph.D. 
+- <i> Adverbial Presupposition Triggers in Mandarin</i>,  M.A.
 
 ### In the pipeline
 
