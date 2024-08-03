@@ -1,0 +1,26 @@
+# main links links
+main:
+
+  - title: "Research"
+    url: /research/
+    
+  - title: "CV"
+    url: /cv/
+
+        
+  - title: "Publications"
+    url: /pubs-by-year/
+
+    
+#  - title: "Talks"
+#    url: /talks/    
+
+#  - title: "Teaching/Advising"
+#    url: /teaching/    
+#
+#        
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
+  - title: "Teaching/Advising"
+    url: /teaching/
