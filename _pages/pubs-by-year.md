@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 permalink: /publications/
+=======
+permalink: /pubs-by-year/
+>>>>>>> f1335a63433e6f97fed12969b5b87f0386314f89
 title: "Publications"
 author_profile: true
 redirect_from: 
