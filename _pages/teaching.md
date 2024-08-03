@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 
+### <b>National University of Singapore</b>
+
+2024 summer term
+Selected Topics in Chinese Linguistics (undergraduate), lecturer
+
 
 ### <b>Hunan University</b>
-
-2016 summer term
-Syntax and Semantics, teaching assistant (primary instructor: Prof. Yaqing Wu)
 
 2015 winter term
 German Language (undergraduate), lecturer

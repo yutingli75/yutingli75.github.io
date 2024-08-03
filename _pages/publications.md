@@ -8,10 +8,15 @@ redirect_from:
 ---
 
 
+### Thesis
+
+- Locative Inversion in Mandarin Chinese: an empirical study of argument alternations, Ph.D.
+- Adverbial Presupposition Triggers in Mandarin, M.A.
+
 
 ### In the pipeline
 
-1. A multivariate corpus analysis of locative inversion in Mandarin Chinese. Yuting Li. In preparation.
+1. A multivariate corpus analysis of locative inversion in Mandarin Chinese. <i>Corpus Linguistics and Linguistic Theory</i>. Yuting Li. Under review.
 2. The effect of newness, definiteness, and heaviness on locative inversion in Mandarin Chinese: an acceptability judgment study. Yuting Li. In preparation.
 
 
